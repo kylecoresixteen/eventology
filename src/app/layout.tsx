@@ -10,6 +10,7 @@ import ThemeProvider from '@/components/theme/Provider';
 import configManager from '@/lib/config';
 // import SetupWizard from '@/components/Setup/SetupWizard';
 import { ChatProvider } from '@/lib/hooks/useChat';
+import Footer from '@/components/Footer';
 
 const montserrat = Montserrat({
   weight: ['300', '400', '500', '700'],
@@ -19,9 +20,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: 'Perplexica - Chat with the internet',
-  description:
-    'Perplexica is an AI powered chatbot that is connected to the internet.',
+  title: 'Eventology',
+  description: 'Your AI Agent for your investment.',
 };
 
 export default function RootLayout({

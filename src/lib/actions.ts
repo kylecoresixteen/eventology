@@ -1,4 +1,4 @@
-import { Message } from '@/components/ChatWindow';
+import { Message } from '@/components/chat-window';
 
 export const getSuggestions = async (chatHistory: Message[]) => {
   const chatModel = localStorage.getItem('chatModelKey');
