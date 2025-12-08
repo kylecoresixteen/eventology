@@ -41,6 +41,7 @@
     "next-themes": "^0.3.0",
     "pdf-parse": "^1.1.1",
     "react": "^18",
+    "react-circle-flags": "^0.0.25",
     "react-dom": "^18",
     "react-text-to-speech": "^0.14.5",
     "react-textarea-autosize": "^8.5.3",

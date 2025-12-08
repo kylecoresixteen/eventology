@@ -3,7 +3,7 @@
 import { useEffect, useState } from 'react';
 import { Settings } from 'lucide-react';
 import EmptyChatMessageInput from './EmptyChatMessageInput';
-import { File } from './ChatWindow';
+import { File } from './chat-window';
 import Link from 'next/link';
 import WeatherWidget from './WeatherWidget';
 import NewsArticleWidget from './NewsArticleWidget';
@@ -46,7 +46,7 @@ const EmptyChat = () => {
       <div className="absolute w-full flex flex-row items-center justify-end mr-5 mt-5">
         <SettingsButtonMobile />
       </div>
-      <div className="flex flex-col items-center justify-center min-h-screen max-w-screen-sm mx-auto p-2 space-y-4">
+      <div className="flex flex-col items-center justify-center min-h-[500px] max-w-screen-sm mx-auto p-2 space-y-4">
         <div className="flex flex-col items-center justify-center w-full space-y-8">
           <h1 className="text-black/70 dark:text-white/70 text-3xl font-medium">
             Eventology.
