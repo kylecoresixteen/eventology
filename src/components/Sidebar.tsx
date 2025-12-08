@@ -4,22 +4,14 @@ import { cn } from '@/lib/utils';
 import {
   BookOpenText,
   Home,
-  Search,
-  SquarePen,
-  Settings,
   Plus,
-  ArrowLeft,
+  PieChartIcon,
+  MessagesSquareIcon,
 } from 'lucide-react';
 import Link from 'next/link';
 import { useSelectedLayoutSegments } from 'next/navigation';
 import React, { useState, type ReactNode } from 'react';
 import Layout from './Layout';
-import {
-  Description,
-  Dialog,
-  DialogPanel,
-  DialogTitle,
-} from '@headlessui/react';
 import SettingsButton from './Settings/SettingsButton';
 
 const VerticalIconContainer = ({ children }: { children: ReactNode }) => {
@@ -38,16 +30,16 @@ const Sidebar = ({ children }: { children: React.ReactNode }) => {
       label: 'Home',
     },
     {
-      icon: Search,
-      href: '/discover',
-      active: segments.includes('discover'),
-      label: 'Discover',
+      icon: PieChartIcon,
+      href: '/portfolio',
+      active: segments.includes('portfolio'),
+      label: 'Portfolio',
     },
     {
-      icon: BookOpenText,
-      href: '/library',
-      active: segments.includes('library'),
-      label: 'Library',
+      icon: MessagesSquareIcon,
+      href: '/community',
+      active: segments.includes('community'),
+      label: 'Community',
     },
   ];
 
