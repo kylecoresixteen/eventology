@@ -17,11 +17,13 @@ export const Case = ({
   return (
     <Box className={`${className} flex-col h-[250px]`}>
       <div className="flex w-full flex-col items-center justify-center">
-        <h1 className="truncate w-full text-center">{title}</h1>
+        <h1 className="truncate w-full text-center text-black/70 dark:text-white/70 text-lg font-medium">
+          {title}
+        </h1>
         <Separator />
       </div>
       <div className="flex-1 flex overflow-scroll">
-        <p className="text-sm">{content}</p>
+        <p className="text-black/70 dark:text-white/70 text-sm">{content}</p>
         {/* <div className="w-[100px] h-[100px]">
           <Image
             src={`/flags/${region}.svg`}

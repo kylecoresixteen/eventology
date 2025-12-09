@@ -1,0 +1,3652 @@
+[
+  {
+    "date": 1735657200000,
+    "close": 198321.3974622771,
+    "maxClose": 200000,
+    "reinvestClose": 198865.53360768175,
+    "netDeposits": 200000,
+    "closePercentage": -0.8393012688614544,
+    "reinvestClosePercentage": -0.5672331961591263,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1735743600000,
+    "close": 195283.55198697074,
+    "maxClose": 200000,
+    "reinvestClose": 196781.7597138738,
+    "netDeposits": 200000,
+    "closePercentage": -2.3582240065146323,
+    "reinvestClosePercentage": -1.6091201430631044,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1735830000000,
+    "close": 190250.0230027296,
+    "maxClose": 200000,
+    "reinvestClose": 193278.6556862563,
+    "netDeposits": 200000,
+    "closePercentage": -4.874988498635197,
+    "reinvestClosePercentage": -3.3606721568718494,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1735916400000,
+    "close": 195668.49665383634,
+    "maxClose": 200000,
+    "reinvestClose": 197171.167178323,
+    "netDeposits": 200000,
+    "closePercentage": -2.1657516730818314,
+    "reinvestClosePercentage": -1.4144164108385011,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736002800000,
+    "close": 185072.29434368166,
+    "maxClose": 200000,
+    "reinvestClose": 189749.2684952201,
+    "netDeposits": 200000,
+    "closePercentage": -7.463852828159172,
+    "reinvestClosePercentage": -5.125365752389945,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736089200000,
+    "close": 189468.25162360125,
+    "maxClose": 200000,
+    "reinvestClose": 192951.08437716827,
+    "netDeposits": 200000,
+    "closePercentage": -5.265874188199377,
+    "reinvestClosePercentage": -3.5244578114158647,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736175600000,
+    "close": 189258.25602033356,
+    "maxClose": 200000,
+    "reinvestClose": 192865.89475300143,
+    "netDeposits": 200000,
+    "closePercentage": -5.37087198983322,
+    "reinvestClosePercentage": -3.5670526234992868,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736262000000,
+    "close": 184104.6307169948,
+    "maxClose": 200000,
+    "reinvestClose": 189248.95416793338,
+    "netDeposits": 200000,
+    "closePercentage": -7.947684641502593,
+    "reinvestClosePercentage": -5.375522916033311,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736348400000,
+    "close": 182741.4467302484,
+    "maxClose": 200000,
+    "reinvestClose": 188324.05636760293,
+    "netDeposits": 200000,
+    "closePercentage": -8.6292766348758,
+    "reinvestClosePercentage": -5.837971816198537,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736434800000,
+    "close": 193615.6986778868,
+    "maxClose": 200000,
+    "reinvestClose": 196218.28952042595,
+    "netDeposits": 200000,
+    "closePercentage": -3.1921506610565995,
+    "reinvestClosePercentage": -1.8908552397870224,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736521200000,
+    "close": 190540.78624509712,
+    "maxClose": 200000,
+    "reinvestClose": 194083.39146470116,
+    "netDeposits": 200000,
+    "closePercentage": -4.729606877451442,
+    "reinvestClosePercentage": -2.9583042676494227,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736607600000,
+    "close": 198051.91089991538,
+    "maxClose": 200000,
+    "reinvestClose": 199488.2185619364,
+    "netDeposits": 200000,
+    "closePercentage": -0.9740445500423084,
+    "reinvestClosePercentage": -0.25589071903179866,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736694000000,
+    "close": 200624.83173249254,
+    "maxClose": 201353.88765849848,
+    "reinvestClose": 201353.88765849848,
+    "netDeposits": 200000,
+    "closePercentage": 0.3124158662462723,
+    "reinvestClosePercentage": 0.6769438292492413,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736780400000,
+    "close": 205150.96680915877,
+    "maxClose": 205150.96680915877,
+    "reinvestClose": 204598.04818877002,
+    "netDeposits": 200000,
+    "closePercentage": 2.575483404579383,
+    "reinvestClosePercentage": 2.2990240943850075,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736866800000,
+    "close": 198358.95544750107,
+    "maxClose": 200000,
+    "reinvestClose": 199935.8227886232,
+    "netDeposits": 200000,
+    "closePercentage": -0.8205222762494668,
+    "reinvestClosePercentage": -0.03208860568840464,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1736953200000,
+    "close": 202328.7347865855,
+    "maxClose": 202813.62195467364,
+    "reinvestClose": 202813.62195467364,
+    "netDeposits": 200000,
+    "closePercentage": 1.1643673932927485,
+    "reinvestClosePercentage": 1.4068109773368196,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737039600000,
+    "close": 203292.0565163745,
+    "maxClose": 203534.73427287707,
+    "reinvestClose": 203534.73427287707,
+    "netDeposits": 200000,
+    "closePercentage": 1.6460282581872452,
+    "reinvestClosePercentage": 1.767367136438537,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737126000000,
+    "close": 213798.19313436383,
+    "maxClose": 213798.19313436383,
+    "reinvestClose": 210971.99816214538,
+    "netDeposits": 200000,
+    "closePercentage": 6.899096567181914,
+    "reinvestClosePercentage": 5.485999081072689,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737212400000,
+    "close": 213207.84873909128,
+    "maxClose": 213207.84873909128,
+    "reinvestClose": 210629.31481171498,
+    "netDeposits": 200000,
+    "closePercentage": 6.603924369545639,
+    "reinvestClosePercentage": 5.314657405857492,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737298800000,
+    "close": 207533.9773347371,
+    "maxClose": 207533.9773347371,
+    "reinvestClose": 206750.47774356283,
+    "netDeposits": 200000,
+    "closePercentage": 3.7669886673685546,
+    "reinvestClosePercentage": 3.3752388717814177,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737385200000,
+    "close": 202231.25468808803,
+    "maxClose": 203104.3437319289,
+    "reinvestClose": 203104.3437319289,
+    "netDeposits": 200000,
+    "closePercentage": 1.1156273440440128,
+    "reinvestClosePercentage": 1.552171865964454,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737471600000,
+    "close": 199669.95874399247,
+    "maxClose": 201364.11423226743,
+    "reinvestClose": 201364.11423226743,
+    "netDeposits": 200000,
+    "closePercentage": -0.16502062800376735,
+    "reinvestClosePercentage": 0.6820571161337138,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737558000000,
+    "close": 193501.66858064785,
+    "maxClose": 200000,
+    "reinvestClose": 197081.5110898039,
+    "netDeposits": 200000,
+    "closePercentage": -3.2491657096760753,
+    "reinvestClosePercentage": -1.4592444550980437,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737644400000,
+    "close": 196958.7540626738,
+    "maxClose": 200000,
+    "reinvestClose": 199607.75137208955,
+    "netDeposits": 200000,
+    "closePercentage": -1.5206229686630979,
+    "reinvestClosePercentage": -0.19612431395522437,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737730800000,
+    "close": 202664.23410904102,
+    "maxClose": 203698.7930105163,
+    "reinvestClose": 203698.7930105163,
+    "netDeposits": 200000,
+    "closePercentage": 1.3321170545205094,
+    "reinvestClosePercentage": 1.8493965052581478,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737817200000,
+    "close": 208457.65986150914,
+    "maxClose": 208457.65986150914,
+    "reinvestClose": 207840.27588018804,
+    "netDeposits": 200000,
+    "closePercentage": 4.228829930754568,
+    "reinvestClosePercentage": 3.920137940094021,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737903600000,
+    "close": 203996.1994842895,
+    "maxClose": 204771.49282407263,
+    "reinvestClose": 204771.49282407263,
+    "netDeposits": 200000,
+    "closePercentage": 1.9980997421447537,
+    "reinvestClosePercentage": 2.385746412036315,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1737990000000,
+    "close": 213136.1823927282,
+    "maxClose": 213136.1823927282,
+    "reinvestClose": 211262.6887544545,
+    "netDeposits": 200000,
+    "closePercentage": 6.568091196364098,
+    "reinvestClosePercentage": 5.631344377227244,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738076400000,
+    "close": 203436.56925696495,
+    "maxClose": 204611.28440857973,
+    "reinvestClose": 204611.28440857973,
+    "netDeposits": 200000,
+    "closePercentage": 1.7182846284824773,
+    "reinvestClosePercentage": 2.305642204289863,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738162800000,
+    "close": 207365.1502175274,
+    "maxClose": 207424.24750778076,
+    "reinvestClose": 207424.24750778076,
+    "netDeposits": 200000,
+    "closePercentage": 3.6825751087637033,
+    "reinvestClosePercentage": 3.7121237538903804,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738249200000,
+    "close": 197310.39204842236,
+    "maxClose": 200450.24596096354,
+    "reinvestClose": 200450.24596096354,
+    "netDeposits": 200000,
+    "closePercentage": -1.3448039757888182,
+    "reinvestClosePercentage": 0.22512298048177035,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738335600000,
+    "close": 202339.494603048,
+    "maxClose": 204102.25284165094,
+    "reinvestClose": 204102.25284165094,
+    "netDeposits": 200000,
+    "closePercentage": 1.1697473015239956,
+    "reinvestClosePercentage": 2.0511264208254723,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738422000000,
+    "close": 214211.27004939655,
+    "maxClose": 214211.27004939655,
+    "reinvestClose": 212529.71885417934,
+    "netDeposits": 200000,
+    "closePercentage": 7.105635024698278,
+    "reinvestClosePercentage": 6.2648594270896725,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738508400000,
+    "close": 220585.3427313454,
+    "maxClose": 220585.3427313454,
+    "reinvestClose": 217006.41540699126,
+    "netDeposits": 200000,
+    "closePercentage": 10.292671365672694,
+    "reinvestClosePercentage": 8.503207703495631,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738594800000,
+    "close": 229462.75862219807,
+    "maxClose": 229462.75862219807,
+    "reinvestClose": 223163.74174461464,
+    "netDeposits": 200000,
+    "closePercentage": 14.731379311099039,
+    "reinvestClosePercentage": 11.581870872307322,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738681200000,
+    "close": 233443.67190239666,
+    "maxClose": 233443.67190239666,
+    "reinvestClose": 225930.06754847988,
+    "netDeposits": 200000,
+    "closePercentage": 16.72183595119833,
+    "reinvestClosePercentage": 12.965033774239942,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738767600000,
+    "close": 224620.41174295242,
+    "maxClose": 224620.41174295242,
+    "reinvestClose": 220031.12026176974,
+    "netDeposits": 200000,
+    "closePercentage": 12.31020587147621,
+    "reinvestClosePercentage": 10.015560130884872,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738854000000,
+    "close": 234375.063448757,
+    "maxClose": 234375.063448757,
+    "reinvestClose": 226789.1648424424,
+    "netDeposits": 200000,
+    "closePercentage": 17.187531724378495,
+    "reinvestClosePercentage": 13.394582421221202,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1738940400000,
+    "close": 247501.61624034692,
+    "maxClose": 247501.61624034692,
+    "reinvestClose": 235769.51179428125,
+    "netDeposits": 200000,
+    "closePercentage": 23.75080812017346,
+    "reinvestClosePercentage": 17.884755897140625,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739026800000,
+    "close": 253818.39263690016,
+    "maxClose": 253818.39263690016,
+    "reinvestClose": 240058.39045552147,
+    "netDeposits": 200000,
+    "closePercentage": 26.90919631845008,
+    "reinvestClosePercentage": 20.029195227760734,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739113200000,
+    "close": 241559.55399119703,
+    "maxClose": 241559.55399119703,
+    "reinvestClose": 232033.87730110844,
+    "netDeposits": 200000,
+    "closePercentage": 20.779776995598514,
+    "reinvestClosePercentage": 16.01693865055422,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739199600000,
+    "close": 234629.82049902604,
+    "maxClose": 234629.82049902604,
+    "reinvestClose": 227446.39089555977,
+    "netDeposits": 200000,
+    "closePercentage": 17.314910249513023,
+    "reinvestClosePercentage": 13.723195447779887,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739286000000,
+    "close": 239410.98041301128,
+    "maxClose": 239410.98041301128,
+    "reinvestClose": 230744.13268517877,
+    "netDeposits": 200000,
+    "closePercentage": 19.705490206505637,
+    "reinvestClosePercentage": 15.372066342589388,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739372400000,
+    "close": 249882.01085993455,
+    "maxClose": 249882.01085993455,
+    "reinvestClose": 237870.23475399666,
+    "netDeposits": 200000,
+    "closePercentage": 24.941005429967277,
+    "reinvestClosePercentage": 18.935117376998328,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739458800000,
+    "close": 261359.90527774818,
+    "maxClose": 261359.90527774818,
+    "reinvestClose": 245582.85897669214,
+    "netDeposits": 200000,
+    "closePercentage": 30.67995263887409,
+    "reinvestClosePercentage": 22.79142948834607,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739545200000,
+    "close": 258599.0201487206,
+    "maxClose": 258599.0201487206,
+    "reinvestClose": 243850.9422905476,
+    "netDeposits": 200000,
+    "closePercentage": 29.299510074360295,
+    "reinvestClosePercentage": 21.925471145273796,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739631600000,
+    "close": 259167.12876257492,
+    "maxClose": 259167.12876257492,
+    "reinvestClose": 244284.70260729088,
+    "netDeposits": 200000,
+    "closePercentage": 29.583564381287463,
+    "reinvestClosePercentage": 22.142351303645437,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739718000000,
+    "close": 248939.21934390598,
+    "maxClose": 248939.21934390598,
+    "reinvestClose": 237619.24370362464,
+    "netDeposits": 200000,
+    "closePercentage": 24.469609671952988,
+    "reinvestClosePercentage": 18.80962185181232,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739804400000,
+    "close": 241313.17423550537,
+    "maxClose": 241313.17423550537,
+    "reinvestClose": 232598.47946509637,
+    "netDeposits": 200000,
+    "closePercentage": 20.656587117752686,
+    "reinvestClosePercentage": 16.299239732548187,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739890800000,
+    "close": 238357.0154406172,
+    "maxClose": 238357.0154406172,
+    "reinvestClose": 230689.5367246935,
+    "netDeposits": 200000,
+    "closePercentage": 19.178507720308595,
+    "reinvestClosePercentage": 15.344768362346745,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1739977200000,
+    "close": 236875.82399438362,
+    "maxClose": 236875.82399438362,
+    "reinvestClose": 229774.79100450236,
+    "netDeposits": 200000,
+    "closePercentage": 18.43791199719181,
+    "reinvestClosePercentage": 14.88739550225118,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740063600000,
+    "close": 237072.96259917278,
+    "maxClose": 237072.96259917278,
+    "reinvestClose": 229958.78892064877,
+    "netDeposits": 200000,
+    "closePercentage": 18.53648129958639,
+    "reinvestClosePercentage": 14.979394460324388,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740150000000,
+    "close": 245859.31057646574,
+    "maxClose": 245859.31057646574,
+    "reinvestClose": 235997.27644347193,
+    "netDeposits": 200000,
+    "closePercentage": 22.92965528823287,
+    "reinvestClosePercentage": 17.998638221735963,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740236400000,
+    "close": 232177.48656102104,
+    "maxClose": 232177.48656102104,
+    "reinvestClose": 226868.44047908983,
+    "netDeposits": 200000,
+    "closePercentage": 16.08874328051052,
+    "reinvestClosePercentage": 13.434220239544914,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740322800000,
+    "close": 233687.18762429187,
+    "maxClose": 233687.18762429187,
+    "reinvestClose": 227973.68501456513,
+    "netDeposits": 200000,
+    "closePercentage": 16.843593812145933,
+    "reinvestClosePercentage": 13.986842507282562,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740409200000,
+    "close": 222657.1062881328,
+    "maxClose": 222657.1062881328,
+    "reinvestClose": 220521.27372321015,
+    "netDeposits": 200000,
+    "closePercentage": 11.328553144066406,
+    "reinvestClosePercentage": 10.260636861605075,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740495600000,
+    "close": 217067.89178355498,
+    "maxClose": 217067.89178355498,
+    "reinvestClose": 216705.73841567506,
+    "netDeposits": 200000,
+    "closePercentage": 8.53394589177749,
+    "reinvestClosePercentage": 8.352869207837532,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740582000000,
+    "close": 222069.7527480682,
+    "maxClose": 222069.7527480682,
+    "reinvestClose": 220263.349555472,
+    "netDeposits": 200000,
+    "closePercentage": 11.034876374034095,
+    "reinvestClosePercentage": 10.131674777735999,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740668400000,
+    "close": 225096.65448397584,
+    "maxClose": 225096.65448397584,
+    "reinvestClose": 222439.53936329955,
+    "netDeposits": 200000,
+    "closePercentage": 12.548327241987922,
+    "reinvestClosePercentage": 11.219769681649778,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740754800000,
+    "close": 226017.8544371193,
+    "maxClose": 226017.8544371193,
+    "reinvestClose": 223130.635211986,
+    "netDeposits": 200000,
+    "closePercentage": 13.008927218559649,
+    "reinvestClosePercentage": 11.565317605992998,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740841200000,
+    "close": 219942.57628242718,
+    "maxClose": 219942.57628242718,
+    "reinvestClose": 219018.1662015233,
+    "netDeposits": 200000,
+    "closePercentage": 9.97128814121359,
+    "reinvestClosePercentage": 9.50908310076165,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1740927600000,
+    "close": 224389.87589288733,
+    "maxClose": 224389.87589288733,
+    "reinvestClose": 222194.26459807818,
+    "netDeposits": 200000,
+    "closePercentage": 12.194937946443664,
+    "reinvestClosePercentage": 11.09713229903909,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741014000000,
+    "close": 213754.26325447258,
+    "maxClose": 214879.42824397772,
+    "reinvestClose": 214879.42824397772,
+    "netDeposits": 200000,
+    "closePercentage": 6.87713162723629,
+    "reinvestClosePercentage": 7.439714121988858,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741100400000,
+    "close": 216618.9094127641,
+    "maxClose": 216955.6837707334,
+    "reinvestClose": 216955.6837707334,
+    "netDeposits": 200000,
+    "closePercentage": 8.30945470638205,
+    "reinvestClosePercentage": 8.477841885366695,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741186800000,
+    "close": 219052.85426190362,
+    "maxClose": 219052.85426190362,
+    "reinvestClose": 218714.82533312656,
+    "netDeposits": 200000,
+    "closePercentage": 9.526427130951808,
+    "reinvestClosePercentage": 9.35741266656328,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741273200000,
+    "close": 214911.26228635418,
+    "maxClose": 215903.81329190527,
+    "reinvestClose": 215903.81329190527,
+    "netDeposits": 200000,
+    "closePercentage": 7.455631143177088,
+    "reinvestClosePercentage": 7.951906645952636,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741359600000,
+    "close": 203424.93889120812,
+    "maxClose": 207878.60043404397,
+    "reinvestClose": 207878.60043404397,
+    "netDeposits": 200000,
+    "closePercentage": 1.7124694456040597,
+    "reinvestClosePercentage": 3.939300217021984,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741446000000,
+    "close": 209394.33245315665,
+    "maxClose": 212209.45736358187,
+    "reinvestClose": 212209.45736358187,
+    "netDeposits": 200000,
+    "closePercentage": 4.697166226578323,
+    "reinvestClosePercentage": 6.104728681790934,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741532400000,
+    "close": 210699.36862746353,
+    "maxClose": 213195.3231187766,
+    "reinvestClose": 213195.3231187766,
+    "netDeposits": 200000,
+    "closePercentage": 5.349684313731762,
+    "reinvestClosePercentage": 6.597661559388303,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741618800000,
+    "close": 221917.38488773126,
+    "maxClose": 221917.38488773126,
+    "reinvestClose": 221212.39579362684,
+    "netDeposits": 200000,
+    "closePercentage": 10.958692443865628,
+    "reinvestClosePercentage": 10.606197896813422,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741705200000,
+    "close": 220411.03121636296,
+    "maxClose": 220411.03121636296,
+    "reinvestClose": 220241.43420266316,
+    "netDeposits": 200000,
+    "closePercentage": 10.205515608181479,
+    "reinvestClosePercentage": 10.120717101331582,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741791600000,
+    "close": 209541.79114819388,
+    "maxClose": 212688.65300775712,
+    "reinvestClose": 212688.65300775712,
+    "netDeposits": 200000,
+    "closePercentage": 4.770895574096939,
+    "reinvestClosePercentage": 6.344326503878561,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741878000000,
+    "close": 211665.31863105868,
+    "maxClose": 214245.48434959693,
+    "reinvestClose": 214245.48434959693,
+    "netDeposits": 200000,
+    "closePercentage": 5.832659315529338,
+    "reinvestClosePercentage": 7.122742174798463,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1741964400000,
+    "close": 227447.55769612966,
+    "maxClose": 227447.55769612966,
+    "reinvestClose": 225359.35717220203,
+    "netDeposits": 200000,
+    "closePercentage": 13.72377884806483,
+    "reinvestClosePercentage": 12.679678586101014,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742050800000,
+    "close": 218672.78859209814,
+    "maxClose": 219037.71034022808,
+    "reinvestClose": 219037.71034022808,
+    "netDeposits": 200000,
+    "closePercentage": 9.336394296049068,
+    "reinvestClosePercentage": 9.518855170114039,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742137200000,
+    "close": 211927.5285557952,
+    "maxClose": 213888.53789320256,
+    "reinvestClose": 213888.53789320256,
+    "netDeposits": 200000,
+    "closePercentage": 5.9637642778976,
+    "reinvestClosePercentage": 6.944268946601281,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742223600000,
+    "close": 221348.22134348462,
+    "maxClose": 221348.22134348462,
+    "reinvestClose": 220002.69431683546,
+    "netDeposits": 200000,
+    "closePercentage": 10.674110671742309,
+    "reinvestClosePercentage": 10.001347158417731,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742310000000,
+    "close": 220202.35266907018,
+    "maxClose": 220202.35266907018,
+    "reinvestClose": 218462.8006982063,
+    "netDeposits": 200000,
+    "closePercentage": 10.101176334535092,
+    "reinvestClosePercentage": 9.231400349103147,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742396400000,
+    "close": 220967.76027875132,
+    "maxClose": 220967.76027875132,
+    "reinvestClose": 218097.7505569381,
+    "netDeposits": 200000,
+    "closePercentage": 10.483880139375659,
+    "reinvestClosePercentage": 9.048875278469044,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742482800000,
+    "close": 207609.44635031075,
+    "maxClose": 207785.90791041526,
+    "reinvestClose": 207785.90791041526,
+    "netDeposits": 200000,
+    "closePercentage": 3.804723175155377,
+    "reinvestClosePercentage": 3.8929539552076315,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742569200000,
+    "close": 224145.8904684658,
+    "maxClose": 224145.8904684658,
+    "reinvestClose": 218176.88640029298,
+    "netDeposits": 200000,
+    "closePercentage": 12.072945234232902,
+    "reinvestClosePercentage": 9.088443200146488,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742655600000,
+    "close": 223872.3653387815,
+    "maxClose": 223872.3653387815,
+    "reinvestClose": 216574.38914097974,
+    "netDeposits": 200000,
+    "closePercentage": 11.93618266939075,
+    "reinvestClosePercentage": 8.287194570489868,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742742000000,
+    "close": 218613.7349862653,
+    "maxClose": 218613.7349862653,
+    "reinvestClose": 211436.1290793469,
+    "netDeposits": 200000,
+    "closePercentage": 9.306867493132653,
+    "reinvestClosePercentage": 5.718064539673447,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742828400000,
+    "close": 207808.2592824212,
+    "maxClose": 207808.2592824212,
+    "reinvestClose": 202422.85777769797,
+    "netDeposits": 200000,
+    "closePercentage": 3.904129641210602,
+    "reinvestClosePercentage": 1.2114288888489828,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1742914800000,
+    "close": 210246.1869487239,
+    "maxClose": 210246.1869487239,
+    "reinvestClose": 202315.572274716,
+    "netDeposits": 200000,
+    "closePercentage": 5.123093474361943,
+    "reinvestClosePercentage": 1.1577861373579945,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743001200000,
+    "close": 220340.5038229881,
+    "maxClose": 220340.5038229881,
+    "reinvestClose": 207181.81822512785,
+    "netDeposits": 200000,
+    "closePercentage": 10.170251911494052,
+    "reinvestClosePercentage": 3.5909091125639248,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743087600000,
+    "close": 215989.4543036774,
+    "maxClose": 215989.4543036774,
+    "reinvestClose": 202186.62906271688,
+    "netDeposits": 200000,
+    "closePercentage": 7.994727151838699,
+    "reinvestClosePercentage": 1.0933145313584391,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743174000000,
+    "close": 201517.80570763355,
+    "maxClose": 201517.80570763355,
+    "reinvestClose": 190454.511392147,
+    "netDeposits": 200000,
+    "closePercentage": 0.7589028538167768,
+    "reinvestClosePercentage": -4.772744303926505,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743260400000,
+    "close": 210932.09227524546,
+    "maxClose": 210932.09227524546,
+    "reinvestClose": 194426.03528279584,
+    "netDeposits": 200000,
+    "closePercentage": 5.466046137622732,
+    "reinvestClosePercentage": -2.786982358602079,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743346800000,
+    "close": 223874.7391946341,
+    "maxClose": 223874.7391946341,
+    "reinvestClose": 200329.59248546787,
+    "netDeposits": 200000,
+    "closePercentage": 11.937369597317055,
+    "reinvestClosePercentage": 0.16479624273393711,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743433200000,
+    "close": 219228.570952131,
+    "maxClose": 219228.570952131,
+    "reinvestClose": 194753.72605523787,
+    "netDeposits": 200000,
+    "closePercentage": 9.614285476065502,
+    "reinvestClosePercentage": -2.6231369723810642,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743519600000,
+    "close": 225211.81717214888,
+    "maxClose": 225211.81717214888,
+    "reinvestClose": 195742.1439592702,
+    "netDeposits": 200000,
+    "closePercentage": 12.605908586074438,
+    "reinvestClosePercentage": -2.128928020364896,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743606000000,
+    "close": 244785.94568471296,
+    "maxClose": 244785.94568471296,
+    "reinvestClose": 204979.95547153754,
+    "netDeposits": 200000,
+    "closePercentage": 22.392972842356482,
+    "reinvestClosePercentage": 2.489977735768771,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743692400000,
+    "close": 253918.2533852965,
+    "maxClose": 253918.2533852965,
+    "reinvestClose": 207695.5588831271,
+    "netDeposits": 200000,
+    "closePercentage": 26.95912669264825,
+    "reinvestClosePercentage": 3.847779441563544,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743778800000,
+    "close": 262647.2750058268,
+    "maxClose": 262647.2750058268,
+    "reinvestClose": 210171.24578477853,
+    "netDeposits": 200000,
+    "closePercentage": 31.323637502913392,
+    "reinvestClosePercentage": 5.085622892389264,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743865200000,
+    "close": 248017.04837970153,
+    "maxClose": 248017.04837970153,
+    "reinvestClose": 199574.21985231212,
+    "netDeposits": 200000,
+    "closePercentage": 24.008524189850768,
+    "reinvestClosePercentage": -0.21289007384394065,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1743951600000,
+    "close": 248250.96748905344,
+    "maxClose": 248250.96748905344,
+    "reinvestClose": 197582.19674264593,
+    "netDeposits": 200000,
+    "closePercentage": 24.12548374452672,
+    "reinvestClosePercentage": -1.2089016286770349,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744038000000,
+    "close": 240336.24653012786,
+    "maxClose": 240336.24653012786,
+    "reinvestClose": 191217.39796117455,
+    "netDeposits": 200000,
+    "closePercentage": 20.16812326506393,
+    "reinvestClosePercentage": -4.391301019412727,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744124400000,
+    "close": 243966.70142128607,
+    "maxClose": 243966.70142128607,
+    "reinvestClose": 191508.03922554202,
+    "netDeposits": 200000,
+    "closePercentage": 21.98335071064303,
+    "reinvestClosePercentage": -4.245980387228992,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744210800000,
+    "close": 265328.5418913084,
+    "maxClose": 265328.5418913084,
+    "reinvestClose": 201634.60473880556,
+    "netDeposits": 200000,
+    "closePercentage": 32.664270945654195,
+    "reinvestClosePercentage": 0.8173023694027797,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744297200000,
+    "close": 276931.14985582087,
+    "maxClose": 276931.14985582087,
+    "reinvestClose": 206287.44217714533,
+    "netDeposits": 200000,
+    "closePercentage": 38.46557492791043,
+    "reinvestClosePercentage": 3.143721088572667,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744383600000,
+    "close": 285241.023128434,
+    "maxClose": 285241.023128434,
+    "reinvestClose": 209220.10114086515,
+    "netDeposits": 200000,
+    "closePercentage": 42.62051156421701,
+    "reinvestClosePercentage": 4.610050570432577,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744470000000,
+    "close": 294319.0875250202,
+    "maxClose": 294319.0875250202,
+    "reinvestClose": 212614.9670581378,
+    "netDeposits": 200000,
+    "closePercentage": 47.15954376251009,
+    "reinvestClosePercentage": 6.307483529068894,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744556400000,
+    "close": 291928.4496341879,
+    "maxClose": 291928.4496341879,
+    "reinvestClose": 210273.4010943548,
+    "netDeposits": 200000,
+    "closePercentage": 45.96422481709396,
+    "reinvestClosePercentage": 5.136700547177403,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744642800000,
+    "close": 304676.24375930516,
+    "maxClose": 304676.24375930516,
+    "reinvestClose": 215754.88108962495,
+    "netDeposits": 200000,
+    "closePercentage": 52.338121879652576,
+    "reinvestClosePercentage": 7.877440544812473,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744729200000,
+    "close": 318205.76526507176,
+    "maxClose": 318205.76526507176,
+    "reinvestClose": 221637.10348766987,
+    "netDeposits": 200000,
+    "closePercentage": 59.10288263253588,
+    "reinvestClosePercentage": 10.818551743834934,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744815600000,
+    "close": 327506.69089978654,
+    "maxClose": 327506.69089978654,
+    "reinvestClose": 225520.2478667083,
+    "netDeposits": 200000,
+    "closePercentage": 63.753345449893274,
+    "reinvestClosePercentage": 12.760123933354144,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744902000000,
+    "close": 310723.2776376492,
+    "maxClose": 310723.2776376492,
+    "reinvestClose": 216922.48640438763,
+    "netDeposits": 200000,
+    "closePercentage": 55.36163881882461,
+    "reinvestClosePercentage": 8.461243202193815,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1744988400000,
+    "close": 317549.24251509464,
+    "maxClose": 317549.24251509464,
+    "reinvestClose": 219957.12337916097,
+    "netDeposits": 200000,
+    "closePercentage": 58.774621257547324,
+    "reinvestClosePercentage": 9.978561689580486,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745074800000,
+    "close": 332299.8930476348,
+    "maxClose": 332299.8930476348,
+    "reinvestClose": 226968.4678939861,
+    "netDeposits": 200000,
+    "closePercentage": 66.1499465238174,
+    "reinvestClosePercentage": 13.484233946993045,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745161200000,
+    "close": 319167.72548330715,
+    "maxClose": 319167.72548330715,
+    "reinvestClose": 220622.194468305,
+    "netDeposits": 200000,
+    "closePercentage": 59.58386274165357,
+    "reinvestClosePercentage": 10.311097234152506,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745247600000,
+    "close": 323898.3444646996,
+    "maxClose": 323898.3444646996,
+    "reinvestClose": 222829.39544289082,
+    "netDeposits": 200000,
+    "closePercentage": 61.94917223234982,
+    "reinvestClosePercentage": 11.414697721445409,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745334000000,
+    "close": 304772.32772296504,
+    "maxClose": 304772.32772296504,
+    "reinvestClose": 213571.69450770944,
+    "netDeposits": 200000,
+    "closePercentage": 52.386163861482515,
+    "reinvestClosePercentage": 6.785847253854721,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745420400000,
+    "close": 296758.9345912806,
+    "maxClose": 296758.9345912806,
+    "reinvestClose": 209590.20689765923,
+    "netDeposits": 200000,
+    "closePercentage": 48.379467295640296,
+    "reinvestClosePercentage": 4.795103448829614,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745506800000,
+    "close": 273503.16269715864,
+    "maxClose": 273503.16269715864,
+    "reinvestClose": 198043.51870747004,
+    "netDeposits": 200000,
+    "closePercentage": 36.75158134857932,
+    "reinvestClosePercentage": -0.9782406462649815,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745593200000,
+    "close": 251951.4487899993,
+    "maxClose": 251951.4487899993,
+    "reinvestClose": 187042.99042903393,
+    "netDeposits": 200000,
+    "closePercentage": 25.97572439499965,
+    "reinvestClosePercentage": -6.478504785483033,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745679600000,
+    "close": 261616.01821123465,
+    "maxClose": 261616.01821123465,
+    "reinvestClose": 192024.28265995116,
+    "netDeposits": 200000,
+    "closePercentage": 30.808009105617323,
+    "reinvestClosePercentage": -3.9878586700244196,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745766000000,
+    "close": 248385.57536062662,
+    "maxClose": 248385.57536062662,
+    "reinvestClose": 185169.20410556442,
+    "netDeposits": 200000,
+    "closePercentage": 24.19278768031331,
+    "reinvestClosePercentage": -7.415397947217789,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745852400000,
+    "close": 259642.9722514453,
+    "maxClose": 259642.9722514453,
+    "reinvestClose": 190997.6511890504,
+    "netDeposits": 200000,
+    "closePercentage": 29.821486125722647,
+    "reinvestClosePercentage": -4.5011744054747975,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1745938800000,
+    "close": 271873.0266183065,
+    "maxClose": 271873.0266183065,
+    "reinvestClose": 197235.9318463417,
+    "netDeposits": 200000,
+    "closePercentage": 35.93651330915326,
+    "reinvestClosePercentage": -1.38203407682915,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746025200000,
+    "close": 270478.3277814212,
+    "maxClose": 270478.3277814212,
+    "reinvestClose": 196483.0005863204,
+    "netDeposits": 200000,
+    "closePercentage": 35.23916389071059,
+    "reinvestClosePercentage": -1.7584997068397934,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746111600000,
+    "close": 281833.1002745303,
+    "maxClose": 281833.1002745303,
+    "reinvestClose": 202204.7621016182,
+    "netDeposits": 200000,
+    "closePercentage": 40.91655013726515,
+    "reinvestClosePercentage": 1.1023810508090974,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746198000000,
+    "close": 297223.19063285406,
+    "maxClose": 297223.19063285406,
+    "reinvestClose": 209857.57855034497,
+    "netDeposits": 200000,
+    "closePercentage": 48.61159531642703,
+    "reinvestClosePercentage": 4.928789275172487,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746284400000,
+    "close": 281953.90727203654,
+    "maxClose": 281953.90727203654,
+    "reinvestClose": 202250.88759711836,
+    "netDeposits": 200000,
+    "closePercentage": 40.97695363601827,
+    "reinvestClosePercentage": 1.1254437985591794,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746370800000,
+    "close": 272322.9598397186,
+    "maxClose": 272322.9598397186,
+    "reinvestClose": 197353.92612863134,
+    "netDeposits": 200000,
+    "closePercentage": 36.161479919859296,
+    "reinvestClosePercentage": -1.3230369356843292,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746457200000,
+    "close": 260214.60645521764,
+    "maxClose": 260214.60645521764,
+    "reinvestClose": 191154.59126949654,
+    "netDeposits": 200000,
+    "closePercentage": 30.107303227608817,
+    "reinvestClosePercentage": -4.4227043652517315,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746543600000,
+    "close": 266815.00215150183,
+    "maxClose": 266815.00215150183,
+    "reinvestClose": 194483.06337906956,
+    "netDeposits": 200000,
+    "closePercentage": 33.407501075750915,
+    "reinvestClosePercentage": -2.7584683104652212,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746630000000,
+    "close": 275239.4914062052,
+    "maxClose": 275239.4914062052,
+    "reinvestClose": 198737.71119844087,
+    "netDeposits": 200000,
+    "closePercentage": 37.619745703102616,
+    "reinvestClosePercentage": -0.6311444007795654,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746716400000,
+    "close": 269753.23690867226,
+    "maxClose": 269753.23690867226,
+    "reinvestClose": 196063.91679548717,
+    "netDeposits": 200000,
+    "closePercentage": 34.876618454336125,
+    "reinvestClosePercentage": -1.9680416022564169,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746802800000,
+    "close": 263761.5516886186,
+    "maxClose": 263761.5516886186,
+    "reinvestClose": 193255.52307042523,
+    "netDeposits": 200000,
+    "closePercentage": 31.880775844309305,
+    "reinvestClosePercentage": -3.372238464787384,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746889200000,
+    "close": 259436.33603606274,
+    "maxClose": 259436.33603606274,
+    "reinvestClose": 191429.21397370586,
+    "netDeposits": 200000,
+    "closePercentage": 29.71816801803137,
+    "reinvestClosePercentage": -4.285393013147069,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1746975600000,
+    "close": 254004.6387856879,
+    "maxClose": 254004.6387856879,
+    "reinvestClose": 189158.83854978383,
+    "netDeposits": 200000,
+    "closePercentage": 27.002319392843944,
+    "reinvestClosePercentage": -5.420580725108084,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747062000000,
+    "close": 248178.32507915553,
+    "maxClose": 248178.32507915553,
+    "reinvestClose": 186798.69866139386,
+    "netDeposits": 200000,
+    "closePercentage": 24.089162539577767,
+    "reinvestClosePercentage": -6.600650669303068,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747148400000,
+    "close": 247140.97531541545,
+    "maxClose": 247140.97531541545,
+    "reinvestClose": 187041.82652044858,
+    "netDeposits": 200000,
+    "closePercentage": 23.570487657707723,
+    "reinvestClosePercentage": -6.479086739775711,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747234800000,
+    "close": 249833.06367484646,
+    "maxClose": 249833.06367484646,
+    "reinvestClose": 189428.3961991428,
+    "netDeposits": 200000,
+    "closePercentage": 24.916531837423232,
+    "reinvestClosePercentage": -5.285801900428604,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747321200000,
+    "close": 238133.23443794588,
+    "maxClose": 238133.23443794588,
+    "reinvestClose": 184342.4893165242,
+    "netDeposits": 200000,
+    "closePercentage": 19.06661721897294,
+    "reinvestClosePercentage": -7.828755341737895,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747407600000,
+    "close": 237864.57828701343,
+    "maxClose": 237864.57828701343,
+    "reinvestClose": 185434.47897106258,
+    "netDeposits": 200000,
+    "closePercentage": 18.932289143506715,
+    "reinvestClosePercentage": -7.282760514468711,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747494000000,
+    "close": 239661.81590214762,
+    "maxClose": 239661.81590214762,
+    "reinvestClose": 187784.27212944353,
+    "netDeposits": 200000,
+    "closePercentage": 19.830907951073808,
+    "reinvestClosePercentage": -6.107863935278234,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747580400000,
+    "close": 248795.3233096539,
+    "maxClose": 248795.3233096539,
+    "reinvestClose": 194324.37909739258,
+    "netDeposits": 200000,
+    "closePercentage": 24.39766165482695,
+    "reinvestClosePercentage": -2.8378104513037106,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747666800000,
+    "close": 253959.52757003965,
+    "maxClose": 253959.52757003965,
+    "reinvestClose": 198887.67663357605,
+    "netDeposits": 200000,
+    "closePercentage": 26.979763785019824,
+    "reinvestClosePercentage": -0.5561616832119762,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747753200000,
+    "close": 254734.57212795233,
+    "maxClose": 254734.57212795233,
+    "reinvestClose": 201223.28569057188,
+    "netDeposits": 200000,
+    "closePercentage": 27.367286063976167,
+    "reinvestClosePercentage": 0.6116428452859399,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747839600000,
+    "close": 246553.4871867552,
+    "maxClose": 246553.4871867552,
+    "reinvestClose": 198812.4402697449,
+    "netDeposits": 200000,
+    "closePercentage": 23.2767435933776,
+    "reinvestClosePercentage": -0.5937798651275517,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1747926000000,
+    "close": 245930.98535336534,
+    "maxClose": 245930.98535336534,
+    "reinvestClose": 200690.37853635033,
+    "netDeposits": 200000,
+    "closePercentage": 22.96549267668267,
+    "reinvestClosePercentage": 0.3451892681751633,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748012400000,
+    "close": 254140.48165119713,
+    "maxClose": 254140.48165119713,
+    "reinvestClose": 207803.00935246766,
+    "netDeposits": 200000,
+    "closePercentage": 27.070240825598564,
+    "reinvestClosePercentage": 3.9015046762338317,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748098800000,
+    "close": 247657.64277214947,
+    "maxClose": 247657.64277214947,
+    "reinvestClose": 206762.29468232635,
+    "netDeposits": 200000,
+    "closePercentage": 23.828821386074733,
+    "reinvestClosePercentage": 3.3811473411631745,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748185200000,
+    "close": 238500.9635752983,
+    "maxClose": 238500.9635752983,
+    "reinvestClose": 204214.78467465728,
+    "netDeposits": 200000,
+    "closePercentage": 19.250481787649143,
+    "reinvestClosePercentage": 2.107392337328638,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748271600000,
+    "close": 244831.75531765402,
+    "maxClose": 244831.75531765402,
+    "reinvestClose": 210919.33323776402,
+    "netDeposits": 200000,
+    "closePercentage": 22.415877658827014,
+    "reinvestClosePercentage": 5.459666618882009,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748358000000,
+    "close": 242903.33089697146,
+    "maxClose": 242903.33089697146,
+    "reinvestClose": 212609.37430422733,
+    "netDeposits": 200000,
+    "closePercentage": 21.45166544848573,
+    "reinvestClosePercentage": 6.304687152113663,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748444400000,
+    "close": 231680.0897732415,
+    "maxClose": 231680.0897732415,
+    "reinvestClose": 208452.72031775513,
+    "netDeposits": 200000,
+    "closePercentage": 15.840044886620744,
+    "reinvestClosePercentage": 4.226360158877564,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748530800000,
+    "close": 237962.2252559552,
+    "maxClose": 237962.2252559552,
+    "reinvestClose": 214910.6227658379,
+    "netDeposits": 200000,
+    "closePercentage": 18.981112627977605,
+    "reinvestClosePercentage": 7.455311382918953,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748617200000,
+    "close": 228199.28153234214,
+    "maxClose": 228199.28153234214,
+    "reinvestClose": 211160.10295739304,
+    "netDeposits": 200000,
+    "closePercentage": 14.09964076617107,
+    "reinvestClosePercentage": 5.580051478696521,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748703600000,
+    "close": 228561.9201783819,
+    "maxClose": 228561.9201783819,
+    "reinvestClose": 213614.48866905383,
+    "netDeposits": 200000,
+    "closePercentage": 14.28096008919095,
+    "reinvestClosePercentage": 6.807244334526913,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748790000000,
+    "close": 219538.37815537973,
+    "maxClose": 219538.37815537973,
+    "reinvestClose": 209802.62675851153,
+    "netDeposits": 200000,
+    "closePercentage": 9.769189077689866,
+    "reinvestClosePercentage": 4.901313379255764,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748876400000,
+    "close": 220121.31730179724,
+    "maxClose": 220121.31730179724,
+    "reinvestClose": 212082.27475681648,
+    "netDeposits": 200000,
+    "closePercentage": 10.060658650898622,
+    "reinvestClosePercentage": 6.041137378408239,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1748962800000,
+    "close": 228093.26493679898,
+    "maxClose": 228093.26493679898,
+    "reinvestClose": 219180.1833801793,
+    "netDeposits": 200000,
+    "closePercentage": 14.046632468399489,
+    "reinvestClosePercentage": 9.590091690089656,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749049200000,
+    "close": 218686.3555297452,
+    "maxClose": 218686.3555297452,
+    "reinvestClose": 214494.82211730763,
+    "netDeposits": 200000,
+    "closePercentage": 9.343177764872598,
+    "reinvestClosePercentage": 7.247411058653816,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749135600000,
+    "close": 208882.91014864604,
+    "maxClose": 209182.0082538841,
+    "reinvestClose": 209182.0082538841,
+    "netDeposits": 200000,
+    "closePercentage": 4.441455074323021,
+    "reinvestClosePercentage": 4.591004126942047,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749222000000,
+    "close": 207562.04134583232,
+    "maxClose": 209485.1385218395,
+    "reinvestClose": 209485.1385218395,
+    "netDeposits": 200000,
+    "closePercentage": 3.7810206729161586,
+    "reinvestClosePercentage": 4.742569260919743,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749308400000,
+    "close": 198394.0183106303,
+    "maxClose": 204090.96588960182,
+    "reinvestClose": 204090.96588960182,
+    "netDeposits": 200000,
+    "closePercentage": -0.8029908446848567,
+    "reinvestClosePercentage": 2.0454829448009115,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749394800000,
+    "close": 188974.36004069293,
+    "maxClose": 200000,
+    "reinvestClose": 198195.02564980407,
+    "netDeposits": 200000,
+    "closePercentage": -5.512819979653534,
+    "reinvestClosePercentage": -0.9024871750979655,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749481200000,
+    "close": 190102.57489053626,
+    "maxClose": 200000,
+    "reinvestClose": 199747.73210687208,
+    "netDeposits": 200000,
+    "closePercentage": -4.9487125547318715,
+    "reinvestClosePercentage": -0.1261339465639612,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749567600000,
+    "close": 187390.71677930438,
+    "maxClose": 200000,
+    "reinvestClose": 198330.19177471072,
+    "netDeposits": 200000,
+    "closePercentage": -6.304641610347811,
+    "reinvestClosePercentage": -0.8349041126446392,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749654000000,
+    "close": 192394.61687400655,
+    "maxClose": 202450.07913897748,
+    "reinvestClose": 202450.07913897748,
+    "netDeposits": 200000,
+    "closePercentage": -3.802691562996726,
+    "reinvestClosePercentage": 1.225039569488741,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749740400000,
+    "close": 193375.29528431458,
+    "maxClose": 203440.00309556074,
+    "reinvestClose": 203440.00309556074,
+    "netDeposits": 200000,
+    "closePercentage": -3.312352357842712,
+    "reinvestClosePercentage": 1.720001547780368,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749826800000,
+    "close": 189599.2361903984,
+    "maxClose": 200764.55426609915,
+    "reinvestClose": 200764.55426609915,
+    "netDeposits": 200000,
+    "closePercentage": -5.200381904800801,
+    "reinvestClosePercentage": 0.38227713304957434,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749913200000,
+    "close": 191286.1053412673,
+    "maxClose": 202066.04560227133,
+    "reinvestClose": 202066.04560227133,
+    "netDeposits": 200000,
+    "closePercentage": -4.3569473293663465,
+    "reinvestClosePercentage": 1.0330228011356666,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1749999600000,
+    "close": 195712.4221956612,
+    "maxClose": 205396.54653423495,
+    "reinvestClose": 205396.54653423495,
+    "netDeposits": 200000,
+    "closePercentage": -2.143788902169399,
+    "reinvestClosePercentage": 2.6982732671174743,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750086000000,
+    "close": 190042.76386671778,
+    "maxClose": 201279.13045301655,
+    "reinvestClose": 201279.13045301655,
+    "netDeposits": 200000,
+    "closePercentage": -4.9786180666411095,
+    "reinvestClosePercentage": 0.6395652265082753,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750172400000,
+    "close": 196401.32851638045,
+    "maxClose": 206050.9140227725,
+    "reinvestClose": 206050.9140227725,
+    "netDeposits": 200000,
+    "closePercentage": -1.799335741809773,
+    "reinvestClosePercentage": 3.025457011386243,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750258800000,
+    "close": 195349.75465082485,
+    "maxClose": 205325.29823885032,
+    "reinvestClose": 205325.29823885032,
+    "netDeposits": 200000,
+    "closePercentage": -2.3251226745875755,
+    "reinvestClosePercentage": 2.6626491194251574,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750345200000,
+    "close": 194597.2276694337,
+    "maxClose": 204849.89060635364,
+    "reinvestClose": 204849.89060635364,
+    "netDeposits": 200000,
+    "closePercentage": -2.7013861652831546,
+    "reinvestClosePercentage": 2.4249453031768207,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750431600000,
+    "close": 201379.62341196206,
+    "maxClose": 209912.4268812603,
+    "reinvestClose": 209912.4268812603,
+    "netDeposits": 200000,
+    "closePercentage": 0.6898117059810319,
+    "reinvestClosePercentage": 4.956213440630148,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750518000000,
+    "close": 192314.548324067,
+    "maxClose": 203351.62621677943,
+    "reinvestClose": 203351.62621677943,
+    "netDeposits": 200000,
+    "closePercentage": -3.8427258379665,
+    "reinvestClosePercentage": 1.675813108389717,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750604400000,
+    "close": 189256.41230189652,
+    "maxClose": 201136.7197461343,
+    "reinvestClose": 201136.7197461343,
+    "netDeposits": 200000,
+    "closePercentage": -5.371793849051741,
+    "reinvestClosePercentage": 0.5683598730671511,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750690800000,
+    "close": 197788.42204796555,
+    "maxClose": 207526.35946097906,
+    "reinvestClose": 207526.35946097906,
+    "netDeposits": 200000,
+    "closePercentage": -1.1057889760172257,
+    "reinvestClosePercentage": 3.76317973048953,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750777200000,
+    "close": 204940.02169455137,
+    "maxClose": 212828.38608282944,
+    "reinvestClose": 212828.38608282944,
+    "netDeposits": 200000,
+    "closePercentage": 2.470010847275684,
+    "reinvestClosePercentage": 6.4141930414147215,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750863600000,
+    "close": 199382.4696420765,
+    "maxClose": 208846.50346381572,
+    "reinvestClose": 208846.50346381572,
+    "netDeposits": 200000,
+    "closePercentage": -0.3087651789617521,
+    "reinvestClosePercentage": 4.423251731907862,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1750950000000,
+    "close": 199411.04540292188,
+    "maxClose": 208916.8237144882,
+    "reinvestClose": 208916.8237144882,
+    "netDeposits": 200000,
+    "closePercentage": -0.29447729853905913,
+    "reinvestClosePercentage": 4.4584118572440925,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751036400000,
+    "close": 193860.2088381618,
+    "maxClose": 204896.43366065668,
+    "reinvestClose": 204896.43366065668,
+    "netDeposits": 200000,
+    "closePercentage": -3.0698955809190958,
+    "reinvestClosePercentage": 2.44821683032834,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751122800000,
+    "close": 192793.8197958633,
+    "maxClose": 204179.134530431,
+    "reinvestClose": 204179.134530431,
+    "netDeposits": 200000,
+    "closePercentage": -3.6030901020683523,
+    "reinvestClosePercentage": 2.0895672652155044,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751209200000,
+    "close": 198970.59229375538,
+    "maxClose": 208811.39823048905,
+    "reinvestClose": 208811.39823048905,
+    "netDeposits": 200000,
+    "closePercentage": -0.5147038531223079,
+    "reinvestClosePercentage": 4.405699115244526,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751295600000,
+    "close": 198374.31679971813,
+    "maxClose": 208442.58115987785,
+    "reinvestClose": 208442.58115987785,
+    "netDeposits": 200000,
+    "closePercentage": -0.8128416001409351,
+    "reinvestClosePercentage": 4.221290579938927,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751382000000,
+    "close": 194595.21633434237,
+    "maxClose": 205732.90552057908,
+    "reinvestClose": 205732.90552057908,
+    "netDeposits": 200000,
+    "closePercentage": -2.7023918328288126,
+    "reinvestClosePercentage": 2.8664527602895395,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751468400000,
+    "close": 190277.7064248837,
+    "maxClose": 202463.84140076226,
+    "reinvestClose": 202463.84140076226,
+    "netDeposits": 200000,
+    "closePercentage": -4.861146787558144,
+    "reinvestClosePercentage": 1.2319207003811317,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751554800000,
+    "close": 196587.02493493186,
+    "maxClose": 206937.87223185063,
+    "reinvestClose": 206937.87223185063,
+    "netDeposits": 200000,
+    "closePercentage": -1.706487532534069,
+    "reinvestClosePercentage": 3.4689361159253167,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751641200000,
+    "close": 191344.90002078144,
+    "maxClose": 202678.03839037087,
+    "reinvestClose": 202678.03839037087,
+    "netDeposits": 200000,
+    "closePercentage": -4.327549989609281,
+    "reinvestClosePercentage": 1.3390191951854358,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751727600000,
+    "close": 185506.69513278743,
+    "maxClose": 200000,
+    "reinvestClose": 197812.14112546385,
+    "netDeposits": 200000,
+    "closePercentage": -7.246652433606286,
+    "reinvestClosePercentage": -1.0939294372680743,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751814000000,
+    "close": 192121.5411194599,
+    "maxClose": 202060.85354018304,
+    "reinvestClose": 202060.85354018304,
+    "netDeposits": 200000,
+    "closePercentage": -3.93922944027005,
+    "reinvestClosePercentage": 1.0304267700915224,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751900400000,
+    "close": 190412.16526498023,
+    "maxClose": 200000,
+    "reinvestClose": 199950.03204023547,
+    "netDeposits": 200000,
+    "closePercentage": -4.793917367509887,
+    "reinvestClosePercentage": -0.024983979882264976,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1751986800000,
+    "close": 194722.4325522793,
+    "maxClose": 202130.1765176709,
+    "reinvestClose": 202130.1765176709,
+    "netDeposits": 200000,
+    "closePercentage": -2.6387837238603535,
+    "reinvestClosePercentage": 1.0650882588354433,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752073200000,
+    "close": 200557.01784516664,
+    "maxClose": 205216.00212561694,
+    "reinvestClose": 205216.00212561694,
+    "netDeposits": 200000,
+    "closePercentage": 0.27850892258332166,
+    "reinvestClosePercentage": 2.608001062808471,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752159600000,
+    "close": 196748.40515254423,
+    "maxClose": 201141.235017183,
+    "reinvestClose": 201141.235017183,
+    "netDeposits": 200000,
+    "closePercentage": -1.625797423727883,
+    "reinvestClosePercentage": 0.570617508591502,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752246000000,
+    "close": 197389.1493725677,
+    "maxClose": 200131.0776610629,
+    "reinvestClose": 200131.0776610629,
+    "netDeposits": 200000,
+    "closePercentage": -1.3054253137161431,
+    "reinvestClosePercentage": 0.06553883053145546,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752332400000,
+    "close": 205299.42037221103,
+    "maxClose": 205299.42037221103,
+    "reinvestClose": 204132.75277822075,
+    "netDeposits": 200000,
+    "closePercentage": 2.6497101861055126,
+    "reinvestClosePercentage": 2.0663763891103732,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752418800000,
+    "close": 215781.1686076246,
+    "maxClose": 215781.1686076246,
+    "reinvestClose": 209627.93857876828,
+    "netDeposits": 200000,
+    "closePercentage": 7.8905843038122985,
+    "reinvestClosePercentage": 4.813969289384143,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752505200000,
+    "close": 219956.3283533629,
+    "maxClose": 219956.3283533629,
+    "reinvestClose": 210455.67347290766,
+    "netDeposits": 200000,
+    "closePercentage": 9.978164176681442,
+    "reinvestClosePercentage": 5.227836736453828,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752591600000,
+    "close": 223033.72628653698,
+    "maxClose": 223033.72628653698,
+    "reinvestClose": 210328.99806673158,
+    "netDeposits": 200000,
+    "closePercentage": 11.516863143268493,
+    "reinvestClosePercentage": 5.164499033365791,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752678000000,
+    "close": 219964.97808296207,
+    "maxClose": 219964.97808296207,
+    "reinvestClose": 205957.06676622064,
+    "netDeposits": 200000,
+    "closePercentage": 9.982489041481037,
+    "reinvestClosePercentage": 2.9785333831103196,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752764400000,
+    "close": 223685.3878967864,
+    "maxClose": 223685.3878967864,
+    "reinvestClose": 205946.55066619636,
+    "netDeposits": 200000,
+    "closePercentage": 11.842693948393194,
+    "reinvestClosePercentage": 2.9732753330981794,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752850800000,
+    "close": 218923.78751213787,
+    "maxClose": 218923.78751213787,
+    "reinvestClose": 200264.13855774543,
+    "netDeposits": 200000,
+    "closePercentage": 9.461893756068937,
+    "reinvestClosePercentage": 0.1320692788727174,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1752937200000,
+    "close": 230869.3065568836,
+    "maxClose": 230869.3065568836,
+    "reinvestClose": 205222.65321769062,
+    "netDeposits": 200000,
+    "closePercentage": 15.434653278441793,
+    "reinvestClosePercentage": 2.6113266088453093,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753023600000,
+    "close": 236041.36161171785,
+    "maxClose": 236041.36161171785,
+    "reinvestClose": 205615.09086970938,
+    "netDeposits": 200000,
+    "closePercentage": 18.020680805858923,
+    "reinvestClosePercentage": 2.807545434854692,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753110000000,
+    "close": 245129.14158401516,
+    "maxClose": 245129.14158401516,
+    "reinvestClose": 208485.3301666662,
+    "netDeposits": 200000,
+    "closePercentage": 22.56457079200758,
+    "reinvestClosePercentage": 4.242665083333094,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753196400000,
+    "close": 254222.4471355261,
+    "maxClose": 254222.4471355261,
+    "reinvestClose": 211339.72098222282,
+    "netDeposits": 200000,
+    "closePercentage": 27.111223567763055,
+    "reinvestClosePercentage": 5.669860491111408,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753282800000,
+    "close": 268544.38028961787,
+    "maxClose": 268544.38028961787,
+    "reinvestClose": 217251.28652222623,
+    "netDeposits": 200000,
+    "closePercentage": 34.27219014480893,
+    "reinvestClosePercentage": 8.625643261113117,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753369200000,
+    "close": 262437.297295166,
+    "maxClose": 262437.297295166,
+    "reinvestClose": 211468.99676016337,
+    "netDeposits": 200000,
+    "closePercentage": 31.218648647583002,
+    "reinvestClosePercentage": 5.734498380081685,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753455600000,
+    "close": 274016.6276535593,
+    "maxClose": 274016.6276535593,
+    "reinvestClose": 215897.33087567586,
+    "netDeposits": 200000,
+    "closePercentage": 37.00831382677966,
+    "reinvestClosePercentage": 7.948665437837931,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753542000000,
+    "close": 271753.83947874536,
+    "maxClose": 271753.83947874536,
+    "reinvestClose": 212672.0624171505,
+    "netDeposits": 200000,
+    "closePercentage": 35.87691973937268,
+    "reinvestClosePercentage": 6.3360312085752515,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753628400000,
+    "close": 267900.88710550737,
+    "maxClose": 267900.88710550737,
+    "reinvestClose": 208762.46361221842,
+    "netDeposits": 200000,
+    "closePercentage": 33.95044355275368,
+    "reinvestClosePercentage": 4.381231806109208,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753714800000,
+    "close": 274139.6177029333,
+    "maxClose": 274139.6177029333,
+    "reinvestClose": 210566.6731582086,
+    "netDeposits": 200000,
+    "closePercentage": 37.06980885146666,
+    "reinvestClosePercentage": 5.283336579104303,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753801200000,
+    "close": 278147.62027617055,
+    "maxClose": 278147.62027617055,
+    "reinvestClose": 211264.3442363014,
+    "netDeposits": 200000,
+    "closePercentage": 39.07381013808527,
+    "reinvestClosePercentage": 5.632172118150701,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753887600000,
+    "close": 281538.45953894965,
+    "maxClose": 281538.45953894965,
+    "reinvestClose": 211769.25804952072,
+    "netDeposits": 200000,
+    "closePercentage": 40.769229769474826,
+    "reinvestClosePercentage": 5.884629024760361,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1753974000000,
+    "close": 281986.5365485532,
+    "maxClose": 281986.5365485532,
+    "reinvestClose": 210864.8282957316,
+    "netDeposits": 200000,
+    "closePercentage": 40.99326827427661,
+    "reinvestClosePercentage": 5.432414147865798,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754060400000,
+    "close": 280004.3589101163,
+    "maxClose": 280004.3589101163,
+    "reinvestClose": 208853.5574772569,
+    "netDeposits": 200000,
+    "closePercentage": 40.002179455058155,
+    "reinvestClosePercentage": 4.426778738628447,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754146800000,
+    "close": 280666.6344852835,
+    "maxClose": 280666.6344852835,
+    "reinvestClose": 208401.8543605683,
+    "netDeposits": 200000,
+    "closePercentage": 40.33331724264176,
+    "reinvestClosePercentage": 4.200927180284154,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754233200000,
+    "close": 282360.3150054638,
+    "maxClose": 282360.3150054638,
+    "reinvestClose": 208638.27825987956,
+    "netDeposits": 200000,
+    "closePercentage": 41.18015750273189,
+    "reinvestClosePercentage": 4.31913912993978,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754319600000,
+    "close": 291619.8293242372,
+    "maxClose": 291619.8293242372,
+    "reinvestClose": 212944.55729777308,
+    "netDeposits": 200000,
+    "closePercentage": 45.809914662118594,
+    "reinvestClosePercentage": 6.4722786488865385,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754406000000,
+    "close": 286471.3487797817,
+    "maxClose": 286471.3487797817,
+    "reinvestClose": 209982.90234094686,
+    "netDeposits": 200000,
+    "closePercentage": 43.23567438989086,
+    "reinvestClosePercentage": 4.991451170473432,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754492400000,
+    "close": 281777.9002400387,
+    "maxClose": 281777.9002400387,
+    "reinvestClose": 207419.34739285428,
+    "netDeposits": 200000,
+    "closePercentage": 40.888950120019345,
+    "reinvestClosePercentage": 3.7096736964271404,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754578800000,
+    "close": 282084.4943566729,
+    "maxClose": 282084.4943566729,
+    "reinvestClose": 207581.34574426714,
+    "netDeposits": 200000,
+    "closePercentage": 41.04224717833646,
+    "reinvestClosePercentage": 3.7906728721335674,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754665200000,
+    "close": 276788.83077621215,
+    "maxClose": 276788.83077621215,
+    "reinvestClose": 204859.3954834651,
+    "netDeposits": 200000,
+    "closePercentage": 38.394415388106076,
+    "reinvestClosePercentage": 2.4296977417325545,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754751600000,
+    "close": 266140.4495567499,
+    "maxClose": 266140.4495567499,
+    "reinvestClose": 199335.1419905951,
+    "netDeposits": 200000,
+    "closePercentage": 33.07022477837494,
+    "reinvestClosePercentage": -0.3324290047024552,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754838000000,
+    "close": 268041.4314174391,
+    "maxClose": 268041.4314174391,
+    "reinvestClose": 200335.48653356268,
+    "netDeposits": 200000,
+    "closePercentage": 34.02071570871954,
+    "reinvestClosePercentage": 0.16774326678134094,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1754924400000,
+    "close": 274770.7340378129,
+    "maxClose": 274770.7340378129,
+    "reinvestClose": 203852.7353119346,
+    "netDeposits": 200000,
+    "closePercentage": 37.38536701890646,
+    "reinvestClosePercentage": 1.9263676559673042,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755010800000,
+    "close": 265889.08925958164,
+    "maxClose": 265889.08925958164,
+    "reinvestClose": 199244.59739161687,
+    "netDeposits": 200000,
+    "closePercentage": 32.944544629790826,
+    "reinvestClosePercentage": -0.3777013041915634,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755097200000,
+    "close": 264471.822224564,
+    "maxClose": 264471.822224564,
+    "reinvestClose": 198504.48775581003,
+    "netDeposits": 200000,
+    "closePercentage": 32.23591111228199,
+    "reinvestClosePercentage": -0.7477561220949865,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755183600000,
+    "close": 259126.79205259317,
+    "maxClose": 259126.79205259317,
+    "reinvestClose": 195692.41096240463,
+    "netDeposits": 200000,
+    "closePercentage": 29.563396026296584,
+    "reinvestClosePercentage": -2.1537945187976875,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755270000000,
+    "close": 265854.33251335344,
+    "maxClose": 265854.33251335344,
+    "reinvestClose": 199255.47382401457,
+    "netDeposits": 200000,
+    "closePercentage": 32.92716625667672,
+    "reinvestClosePercentage": -0.37226308799271646,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755356400000,
+    "close": 263373.6077639932,
+    "maxClose": 263373.6077639932,
+    "reinvestClose": 197963.38202444976,
+    "netDeposits": 200000,
+    "closePercentage": 31.6868038819966,
+    "reinvestClosePercentage": -1.018308987775119,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755442800000,
+    "close": 271611.8513460974,
+    "maxClose": 271611.8513460974,
+    "reinvestClose": 202289.1432930903,
+    "netDeposits": 200000,
+    "closePercentage": 35.80592567304871,
+    "reinvestClosePercentage": 1.144571646545155,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755529200000,
+    "close": 272531.91669914464,
+    "maxClose": 272531.91669914464,
+    "reinvestClose": 202775.71874856573,
+    "netDeposits": 200000,
+    "closePercentage": 36.26595834957232,
+    "reinvestClosePercentage": 1.387859374282867,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755615600000,
+    "close": 278293.3042706042,
+    "maxClose": 278293.3042706042,
+    "reinvestClose": 205785.25046049565,
+    "netDeposits": 200000,
+    "closePercentage": 39.146652135302105,
+    "reinvestClosePercentage": 2.892625230247824,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755702000000,
+    "close": 269269.6808613361,
+    "maxClose": 269269.6808613361,
+    "reinvestClose": 201122.77982764022,
+    "netDeposits": 200000,
+    "closePercentage": 34.63484043066806,
+    "reinvestClosePercentage": 0.5613899138201086,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755788400000,
+    "close": 270872.2106024057,
+    "maxClose": 270872.2106024057,
+    "reinvestClose": 201951.7567487569,
+    "netDeposits": 200000,
+    "closePercentage": 35.43610530120286,
+    "reinvestClosePercentage": 0.9758783743784442,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755874800000,
+    "close": 279833.69976832735,
+    "maxClose": 279833.69976832735,
+    "reinvestClose": 206636.54924747994,
+    "netDeposits": 200000,
+    "closePercentage": 39.916849884163675,
+    "reinvestClosePercentage": 3.3182746237399696,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1755961200000,
+    "close": 272187.5618059474,
+    "maxClose": 272187.5618059474,
+    "reinvestClose": 202677.83585773665,
+    "netDeposits": 200000,
+    "closePercentage": 36.0937809029737,
+    "reinvestClosePercentage": 1.3389179288683226,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756047600000,
+    "close": 267466.26389236655,
+    "maxClose": 267466.26389236655,
+    "reinvestClose": 200223.40657044514,
+    "netDeposits": 200000,
+    "closePercentage": 33.73313194618328,
+    "reinvestClosePercentage": 0.1117032852225675,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756134000000,
+    "close": 260110.84647200385,
+    "maxClose": 260110.84647200385,
+    "reinvestClose": 196362.38862226834,
+    "netDeposits": 200000,
+    "closePercentage": 30.05542323600192,
+    "reinvestClosePercentage": -1.8188056888658322,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756220400000,
+    "close": 258863.61451716433,
+    "maxClose": 258863.61451716433,
+    "reinvestClose": 195752.0403120395,
+    "netDeposits": 200000,
+    "closePercentage": 29.431807258582165,
+    "reinvestClosePercentage": -2.1239798439802544,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756306800000,
+    "close": 276623.88003063895,
+    "maxClose": 276623.88003063895,
+    "reinvestClose": 205210.48218386163,
+    "netDeposits": 200000,
+    "closePercentage": 38.31194001531947,
+    "reinvestClosePercentage": 2.605241091930817,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756393200000,
+    "close": 290684.40575863764,
+    "maxClose": 290684.40575863764,
+    "reinvestClose": 212557.18141738253,
+    "netDeposits": 200000,
+    "closePercentage": 45.34220287931882,
+    "reinvestClosePercentage": 6.278590708691263,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756479600000,
+    "close": 282542.28421504295,
+    "maxClose": 282542.28421504295,
+    "reinvestClose": 208448.87679809463,
+    "netDeposits": 200000,
+    "closePercentage": 41.27114210752148,
+    "reinvestClosePercentage": 4.224438399047314,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756566000000,
+    "close": 302401.74874175736,
+    "maxClose": 302401.74874175736,
+    "reinvestClose": 218759.88984456944,
+    "netDeposits": 200000,
+    "closePercentage": 51.20087437087868,
+    "reinvestClosePercentage": 9.379944922284718,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756652400000,
+    "close": 294672.6696012637,
+    "maxClose": 294672.6696012637,
+    "reinvestClose": 214890.99215734226,
+    "netDeposits": 200000,
+    "closePercentage": 47.33633480063186,
+    "reinvestClosePercentage": 7.44549607867113,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756738800000,
+    "close": 316122.8264527138,
+    "maxClose": 316122.8264527138,
+    "reinvestClose": 225926.1346680984,
+    "netDeposits": 200000,
+    "closePercentage": 58.061413226356905,
+    "reinvestClosePercentage": 12.963067334049208,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756825200000,
+    "close": 324056.87248940486,
+    "maxClose": 324056.87248940486,
+    "reinvestClose": 229973.00788844435,
+    "netDeposits": 200000,
+    "closePercentage": 62.028436244702434,
+    "reinvestClosePercentage": 14.986503944222173,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756911600000,
+    "close": 341219.0594801406,
+    "maxClose": 341219.0594801406,
+    "reinvestClose": 238557.44521659092,
+    "netDeposits": 200000,
+    "closePercentage": 70.60952974007031,
+    "reinvestClosePercentage": 19.27872260829546,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1756998000000,
+    "close": 362015.8024033945,
+    "maxClose": 362015.8024033945,
+    "reinvestClose": 248799.3266410222,
+    "netDeposits": 200000,
+    "closePercentage": 81.00790120169724,
+    "reinvestClosePercentage": 24.3996633205111,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757084400000,
+    "close": 354185.568818058,
+    "maxClose": 354185.568818058,
+    "reinvestClose": 245131.85477529786,
+    "netDeposits": 200000,
+    "closePercentage": 77.09278440902901,
+    "reinvestClosePercentage": 22.565927387648934,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757170800000,
+    "close": 372504.2413851462,
+    "maxClose": 372504.2413851462,
+    "reinvestClose": 254064.8597099588,
+    "netDeposits": 200000,
+    "closePercentage": 86.25212069257311,
+    "reinvestClosePercentage": 27.032429854979405,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757257200000,
+    "close": 367955.4964126331,
+    "maxClose": 367955.4964126331,
+    "reinvestClose": 251984.78905639303,
+    "netDeposits": 200000,
+    "closePercentage": 83.97774820631655,
+    "reinvestClosePercentage": 25.99239452819651,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757343600000,
+    "close": 358918.22992093617,
+    "maxClose": 358918.22992093617,
+    "reinvestClose": 247727.8240507804,
+    "netDeposits": 200000,
+    "closePercentage": 79.45911496046809,
+    "reinvestClosePercentage": 23.863912025390192,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757430000000,
+    "close": 365398.41178666067,
+    "maxClose": 365398.41178666067,
+    "reinvestClose": 250912.42554677042,
+    "netDeposits": 200000,
+    "closePercentage": 82.69920589333033,
+    "reinvestClosePercentage": 25.45621277338521,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757516400000,
+    "close": 378789.4020854727,
+    "maxClose": 378789.4020854727,
+    "reinvestClose": 257434.4207915403,
+    "netDeposits": 200000,
+    "closePercentage": 89.39470104273636,
+    "reinvestClosePercentage": 28.71721039577015,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757602800000,
+    "close": 403652.246672504,
+    "maxClose": 403652.246672504,
+    "reinvestClose": 269341.58820302365,
+    "netDeposits": 200000,
+    "closePercentage": 101.82612333625201,
+    "reinvestClosePercentage": 34.670794101511824,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757689200000,
+    "close": 403368.22623751895,
+    "maxClose": 403368.22623751895,
+    "reinvestClose": 269279.33113262564,
+    "netDeposits": 200000,
+    "closePercentage": 101.68411311875947,
+    "reinvestClosePercentage": 34.639665566312814,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757775600000,
+    "close": 393005.8772715478,
+    "maxClose": 393005.8772715478,
+    "reinvestClose": 264613.6336205941,
+    "netDeposits": 200000,
+    "closePercentage": 96.50293863577389,
+    "reinvestClosePercentage": 32.30681681029705,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757862000000,
+    "close": 397979.4367779279,
+    "maxClose": 397979.4367779279,
+    "reinvestClose": 267339.1939748693,
+    "netDeposits": 200000,
+    "closePercentage": 98.98971838896395,
+    "reinvestClosePercentage": 33.669596987434666,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1757948400000,
+    "close": 413118.17792524915,
+    "maxClose": 413118.17792524915,
+    "reinvestClose": 275033.87515744026,
+    "netDeposits": 200000,
+    "closePercentage": 106.55908896262459,
+    "reinvestClosePercentage": 37.516937578720125,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758034800000,
+    "close": 407300.94234765065,
+    "maxClose": 407300.94234765065,
+    "reinvestClose": 273123.39893718937,
+    "netDeposits": 200000,
+    "closePercentage": 103.65047117382534,
+    "reinvestClosePercentage": 36.56169946859468,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758121200000,
+    "close": 408858.93843461707,
+    "maxClose": 408858.93843461707,
+    "reinvestClose": 274884.25152865076,
+    "netDeposits": 200000,
+    "closePercentage": 104.42946921730854,
+    "reinvestClosePercentage": 37.44212576432538,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758207600000,
+    "close": 426770.1335848459,
+    "maxClose": 426770.1335848459,
+    "reinvestClose": 284531.6103362373,
+    "netDeposits": 200000,
+    "closePercentage": 113.38506679242298,
+    "reinvestClosePercentage": 42.265805168118646,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758294000000,
+    "close": 418894.3027131114,
+    "maxClose": 418894.3027131114,
+    "reinvestClose": 282350.375984696,
+    "netDeposits": 200000,
+    "closePercentage": 109.4471513565557,
+    "reinvestClosePercentage": 41.175187992347986,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758380400000,
+    "close": 396326.2862081816,
+    "maxClose": 396326.2862081816,
+    "reinvestClose": 273398.18619577034,
+    "netDeposits": 200000,
+    "closePercentage": 98.16314310409079,
+    "reinvestClosePercentage": 36.69909309788517,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758466800000,
+    "close": 366397.28201001923,
+    "maxClose": 366397.28201001923,
+    "reinvestClose": 260797.17847427152,
+    "netDeposits": 200000,
+    "closePercentage": 83.19864100500962,
+    "reinvestClosePercentage": 30.398589237135766,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758553200000,
+    "close": 368787.7062326962,
+    "maxClose": 368787.7062326962,
+    "reinvestClose": 263956.53416473034,
+    "netDeposits": 200000,
+    "closePercentage": 84.3938531163481,
+    "reinvestClosePercentage": 31.978267082365168,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758639600000,
+    "close": 379441.0171350333,
+    "maxClose": 379441.0171350333,
+    "reinvestClose": 271516.509095819,
+    "netDeposits": 200000,
+    "closePercentage": 89.72050856751666,
+    "reinvestClosePercentage": 35.758254547909516,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758726000000,
+    "close": 381490.3156038054,
+    "maxClose": 381490.3156038054,
+    "reinvestClose": 274998.246486192,
+    "netDeposits": 200000,
+    "closePercentage": 90.7451578019027,
+    "reinvestClosePercentage": 37.499123243095994,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758812400000,
+    "close": 369354.32756702363,
+    "maxClose": 369354.32756702363,
+    "reinvestClose": 271586.75649386086,
+    "netDeposits": 200000,
+    "closePercentage": 84.67716378351182,
+    "reinvestClosePercentage": 35.79337824693043,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758898800000,
+    "close": 375059.471672876,
+    "maxClose": 375059.471672876,
+    "reinvestClose": 277422.5933449574,
+    "netDeposits": 200000,
+    "closePercentage": 87.529735836438,
+    "reinvestClosePercentage": 38.711296672478696,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1758985200000,
+    "close": 396022.22680545447,
+    "maxClose": 396022.22680545447,
+    "reinvestClose": 291470.41627799335,
+    "netDeposits": 200000,
+    "closePercentage": 98.01111340272723,
+    "reinvestClosePercentage": 45.735208138996676,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759071600000,
+    "close": 417356.0596299482,
+    "maxClose": 417356.0596299482,
+    "reinvestClose": 306036.58635992697,
+    "netDeposits": 200000,
+    "closePercentage": 108.67802981497412,
+    "reinvestClosePercentage": 53.018293179963486,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759158000000,
+    "close": 398631.28609051905,
+    "maxClose": 398631.28609051905,
+    "reinvestClose": 300416.1856196241,
+    "netDeposits": 200000,
+    "closePercentage": 99.31564304525952,
+    "reinvestClosePercentage": 50.20809280981206,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759244400000,
+    "close": 389578.4512411313,
+    "maxClose": 389578.4512411313,
+    "reinvestClose": 299740.4057975225,
+    "netDeposits": 200000,
+    "closePercentage": 94.78922562056565,
+    "reinvestClosePercentage": 49.87020289876126,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759330800000,
+    "close": 400273.325498808,
+    "maxClose": 400273.325498808,
+    "reinvestClose": 309708.29046689696,
+    "netDeposits": 200000,
+    "closePercentage": 100.13666274940401,
+    "reinvestClosePercentage": 54.854145233448484,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759417200000,
+    "close": 413893.0160014217,
+    "maxClose": 413893.0160014217,
+    "reinvestClose": 321192.8367902831,
+    "netDeposits": 200000,
+    "closePercentage": 106.94650800071086,
+    "reinvestClosePercentage": 60.59641839514155,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759503600000,
+    "close": 400590.84249868797,
+    "maxClose": 400590.84249868797,
+    "reinvestClose": 318033.6265649098,
+    "netDeposits": 200000,
+    "closePercentage": 100.29542124934399,
+    "reinvestClosePercentage": 59.016813282454905,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759590000000,
+    "close": 378857.6461014752,
+    "maxClose": 378857.6461014752,
+    "reinvestClose": 309712.38360956806,
+    "netDeposits": 200000,
+    "closePercentage": 89.42882305073762,
+    "reinvestClosePercentage": 54.856191804784025,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759676400000,
+    "close": 388158.2563479205,
+    "maxClose": 388158.2563479205,
+    "reinvestClose": 318455.18077578495,
+    "netDeposits": 200000,
+    "closePercentage": 94.07912817396026,
+    "reinvestClosePercentage": 59.22759038789247,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759762800000,
+    "close": 359298.4518889528,
+    "maxClose": 359298.4518889528,
+    "reinvestClose": 305168.5120346801,
+    "netDeposits": 200000,
+    "closePercentage": 79.64922594447641,
+    "reinvestClosePercentage": 52.58425601734006,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759849200000,
+    "close": 354289.9691932673,
+    "maxClose": 354289.9691932673,
+    "reinvestClose": 305081.7263378437,
+    "netDeposits": 200000,
+    "closePercentage": 77.14498459663365,
+    "reinvestClosePercentage": 52.540863168921845,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1759935600000,
+    "close": 342315.61754478456,
+    "maxClose": 342315.61754478456,
+    "reinvestClose": 300528.59709637903,
+    "netDeposits": 200000,
+    "closePercentage": 71.15780877239229,
+    "reinvestClosePercentage": 50.264298548189515,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760022000000,
+    "close": 355441.8261901696,
+    "maxClose": 355441.8261901696,
+    "reinvestClose": 311014.4469437077,
+    "netDeposits": 200000,
+    "closePercentage": 77.72091309508481,
+    "reinvestClosePercentage": 55.50722347185385,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760108400000,
+    "close": 375959.8734612053,
+    "maxClose": 375959.8734612053,
+    "reinvestClose": 325848.55830123724,
+    "netDeposits": 200000,
+    "closePercentage": 87.97993673060263,
+    "reinvestClosePercentage": 62.924279150618624,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760194800000,
+    "close": 393373.4095329163,
+    "maxClose": 393373.4095329163,
+    "reinvestClose": 338498.8631237079,
+    "netDeposits": 200000,
+    "closePercentage": 96.68670476645816,
+    "reinvestClosePercentage": 69.24943156185394,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760281200000,
+    "close": 366341.58878776187,
+    "maxClose": 366341.58878776187,
+    "reinvestClose": 324148.1922132496,
+    "netDeposits": 200000,
+    "closePercentage": 83.17079439388093,
+    "reinvestClosePercentage": 62.07409610662481,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760367600000,
+    "close": 389815.1995100487,
+    "maxClose": 389815.1995100487,
+    "reinvestClose": 340283.0475428505,
+    "netDeposits": 200000,
+    "closePercentage": 94.90759975502436,
+    "reinvestClosePercentage": 70.14152377142524,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760454000000,
+    "close": 402378.7646324795,
+    "maxClose": 402378.7646324795,
+    "reinvestClose": 349358.2587205453,
+    "netDeposits": 200000,
+    "closePercentage": 101.18938231623974,
+    "reinvestClosePercentage": 74.67912936027264,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760540400000,
+    "close": 374933.63637102186,
+    "maxClose": 374933.63637102186,
+    "reinvestClose": 333853.2419979878,
+    "netDeposits": 200000,
+    "closePercentage": 87.46681818551093,
+    "reinvestClosePercentage": 66.9266209989939,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760626800000,
+    "close": 395346.72535381245,
+    "maxClose": 395346.72535381245,
+    "reinvestClose": 347459.91402399755,
+    "netDeposits": 200000,
+    "closePercentage": 97.67336267690622,
+    "reinvestClosePercentage": 73.72995701199878,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760713200000,
+    "close": 383988.87790052756,
+    "maxClose": 383988.87790052756,
+    "reinvestClose": 341141.8904994787,
+    "netDeposits": 200000,
+    "closePercentage": 91.99443895026378,
+    "reinvestClosePercentage": 70.57094524973934,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760799600000,
+    "close": 363718.4801445226,
+    "maxClose": 363718.4801445226,
+    "reinvestClose": 328905.87728138495,
+    "netDeposits": 200000,
+    "closePercentage": 81.85924007226131,
+    "reinvestClosePercentage": 64.45293864069247,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760886000000,
+    "close": 333849.76201640815,
+    "maxClose": 333849.76201640815,
+    "reinvestClose": 309893.34220466204,
+    "netDeposits": 200000,
+    "closePercentage": 66.92488100820407,
+    "reinvestClosePercentage": 54.946671102331024,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1760972400000,
+    "close": 349221.33105841227,
+    "maxClose": 349221.33105841227,
+    "reinvestClose": 319792.2006204559,
+    "netDeposits": 200000,
+    "closePercentage": 74.61066552920613,
+    "reinvestClosePercentage": 59.89610031022795,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761058800000,
+    "close": 355445.2940994864,
+    "maxClose": 355445.2940994864,
+    "reinvestClose": 323695.12405385135,
+    "netDeposits": 200000,
+    "closePercentage": 77.72264704974319,
+    "reinvestClosePercentage": 61.84756202692567,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761145200000,
+    "close": 364101.2616061399,
+    "maxClose": 364101.2616061399,
+    "reinvestClose": 329109.9151821522,
+    "netDeposits": 200000,
+    "closePercentage": 82.05063080306995,
+    "reinvestClosePercentage": 64.55495759107609,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761231600000,
+    "close": 372202.8174702782,
+    "maxClose": 372202.8174702782,
+    "reinvestClose": 334161.8584718718,
+    "netDeposits": 200000,
+    "closePercentage": 86.1014087351391,
+    "reinvestClosePercentage": 67.0809292359359,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761318000000,
+    "close": 396211.8233937755,
+    "maxClose": 396211.8233937755,
+    "reinvestClose": 349175.9547538457,
+    "netDeposits": 200000,
+    "closePercentage": 98.10591169688774,
+    "reinvestClosePercentage": 74.58797737692285,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761404400000,
+    "close": 377469.3091052414,
+    "maxClose": 377469.3091052414,
+    "reinvestClose": 337542.7171602085,
+    "netDeposits": 200000,
+    "closePercentage": 88.7346545526207,
+    "reinvestClosePercentage": 68.77135858010425,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761490800000,
+    "close": 355784.0306248102,
+    "maxClose": 355784.0306248102,
+    "reinvestClose": 323876.763150968,
+    "netDeposits": 200000,
+    "closePercentage": 77.89201531240509,
+    "reinvestClosePercentage": 61.938381575484,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761577200000,
+    "close": 343984.8394139041,
+    "maxClose": 343984.8394139041,
+    "reinvestClose": 316280.41138142016,
+    "netDeposits": 200000,
+    "closePercentage": 71.99241970695206,
+    "reinvestClosePercentage": 58.140205690710076,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761663600000,
+    "close": 369293.87491853425,
+    "maxClose": 369293.87491853425,
+    "reinvestClose": 332493.46372574754,
+    "netDeposits": 200000,
+    "closePercentage": 84.64693745926712,
+    "reinvestClosePercentage": 66.24673186287377,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761750000000,
+    "close": 377274.3871093781,
+    "maxClose": 377274.3871093781,
+    "reinvestClose": 337425.0236552534,
+    "netDeposits": 200000,
+    "closePercentage": 88.63719355468906,
+    "reinvestClosePercentage": 68.7125118276267,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761836400000,
+    "close": 353687.87749858917,
+    "maxClose": 353687.87749858917,
+    "reinvestClose": 322527.49825952173,
+    "netDeposits": 200000,
+    "closePercentage": 76.84393874929458,
+    "reinvestClosePercentage": 61.26374912976087,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1761922800000,
+    "close": 340127.4921592823,
+    "maxClose": 340127.4921592823,
+    "reinvestClose": 313774.67047230736,
+    "netDeposits": 200000,
+    "closePercentage": 70.06374607964116,
+    "reinvestClosePercentage": 56.88733523615368,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762009200000,
+    "close": 337438.93071922363,
+    "maxClose": 337438.93071922363,
+    "reinvestClose": 311925.3604701888,
+    "netDeposits": 200000,
+    "closePercentage": 68.71946535961182,
+    "reinvestClosePercentage": 55.96268023509439,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762095600000,
+    "close": 348611.20564971,
+    "maxClose": 348611.20564971,
+    "reinvestClose": 319050.38822208607,
+    "netDeposits": 200000,
+    "closePercentage": 74.30560282485501,
+    "reinvestClosePercentage": 59.525194111043035,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762182000000,
+    "close": 345687.8896825258,
+    "maxClose": 345687.8896825258,
+    "reinvestClose": 317099.1106224532,
+    "netDeposits": 200000,
+    "closePercentage": 72.84394484126291,
+    "reinvestClosePercentage": 58.54955531122661,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762268400000,
+    "close": 369427.4038720288,
+    "maxClose": 369427.4038720288,
+    "reinvestClose": 332236.15420210484,
+    "netDeposits": 200000,
+    "closePercentage": 84.7137019360144,
+    "reinvestClosePercentage": 66.11807710105242,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762354800000,
+    "close": 363658.5688193065,
+    "maxClose": 363658.5688193065,
+    "reinvestClose": 328489.7586082683,
+    "netDeposits": 200000,
+    "closePercentage": 81.82928440965324,
+    "reinvestClosePercentage": 64.24487930413414,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762441200000,
+    "close": 383334.60813360976,
+    "maxClose": 383334.60813360976,
+    "reinvestClose": 340817.5444167144,
+    "netDeposits": 200000,
+    "closePercentage": 91.66730406680487,
+    "reinvestClosePercentage": 70.40877220835719,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762527600000,
+    "close": 377205.22118049546,
+    "maxClose": 377205.22118049546,
+    "reinvestClose": 336905.40548246884,
+    "netDeposits": 200000,
+    "closePercentage": 88.60261059024774,
+    "reinvestClosePercentage": 68.45270274123442,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762614000000,
+    "close": 379458.85744678247,
+    "maxClose": 379458.85744678247,
+    "reinvestClose": 338217.3793698968,
+    "netDeposits": 200000,
+    "closePercentage": 89.72942872339124,
+    "reinvestClosePercentage": 69.10868968494839,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762700400000,
+    "close": 396838.42121539096,
+    "maxClose": 396838.42121539096,
+    "reinvestClose": 348971.1586889503,
+    "netDeposits": 200000,
+    "closePercentage": 98.41921060769549,
+    "reinvestClosePercentage": 74.48557934447516,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762786800000,
+    "close": 377303.4001013441,
+    "maxClose": 377303.4001013441,
+    "reinvestClose": 336848.6593731147,
+    "netDeposits": 200000,
+    "closePercentage": 88.65170005067206,
+    "reinvestClosePercentage": 68.42432968655736,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762873200000,
+    "close": 373736.45643746934,
+    "maxClose": 373736.45643746934,
+    "reinvestClose": 334542.44974743447,
+    "netDeposits": 200000,
+    "closePercentage": 86.86822821873467,
+    "reinvestClosePercentage": 67.27122487371724,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1762959600000,
+    "close": 380226.9135677805,
+    "maxClose": 380226.9135677805,
+    "reinvestClose": 338518.3123784154,
+    "netDeposits": 200000,
+    "closePercentage": 90.11345678389026,
+    "reinvestClosePercentage": 69.25915618920769,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763046000000,
+    "close": 388450.8298763328,
+    "maxClose": 388450.8298763328,
+    "reinvestClose": 343514.36670030025,
+    "netDeposits": 200000,
+    "closePercentage": 94.22541493816638,
+    "reinvestClosePercentage": 71.75718335015013,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763132400000,
+    "close": 384863.88410499244,
+    "maxClose": 384863.88410499244,
+    "reinvestClose": 341213.4542250587,
+    "netDeposits": 200000,
+    "closePercentage": 92.43194205249623,
+    "reinvestClosePercentage": 70.60672711252937,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763218800000,
+    "close": 393896.22437683115,
+    "maxClose": 393896.22437683115,
+    "reinvestClose": 346739.64950580307,
+    "netDeposits": 200000,
+    "closePercentage": 96.94811218841556,
+    "reinvestClosePercentage": 73.36982475290154,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763305200000,
+    "close": 367601.22331852774,
+    "maxClose": 367601.22331852774,
+    "reinvestClose": 330446.55076503777,
+    "netDeposits": 200000,
+    "closePercentage": 83.80061165926386,
+    "reinvestClosePercentage": 65.22327538251889,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763391600000,
+    "close": 389400.2122304158,
+    "maxClose": 389400.2122304158,
+    "reinvestClose": 344040.79323011043,
+    "netDeposits": 200000,
+    "closePercentage": 94.70010611520789,
+    "reinvestClosePercentage": 72.02039661505522,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763478000000,
+    "close": 372568.44481090223,
+    "maxClose": 372568.44481090223,
+    "reinvestClose": 333557.5847395661,
+    "netDeposits": 200000,
+    "closePercentage": 86.28422240545112,
+    "reinvestClosePercentage": 66.77879236978305,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763564400000,
+    "close": 392793.1842103144,
+    "maxClose": 392793.1842103144,
+    "reinvestClose": 346105.38736381306,
+    "netDeposits": 200000,
+    "closePercentage": 96.39659210515721,
+    "reinvestClosePercentage": 73.05269368190653,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763650800000,
+    "close": 366404.05909256754,
+    "maxClose": 366404.05909256754,
+    "reinvestClose": 329722.5078436404,
+    "netDeposits": 200000,
+    "closePercentage": 83.20202954628377,
+    "reinvestClosePercentage": 64.86125392182021,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763737200000,
+    "close": 377378.4983512102,
+    "maxClose": 377378.4983512102,
+    "reinvestClose": 336542.76816601865,
+    "netDeposits": 200000,
+    "closePercentage": 88.6892491756051,
+    "reinvestClosePercentage": 68.27138408300932,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763823600000,
+    "close": 363573.24291293655,
+    "maxClose": 363573.24291293655,
+    "reinvestClose": 327853.6332191249,
+    "netDeposits": 200000,
+    "closePercentage": 81.78662145646828,
+    "reinvestClosePercentage": 63.926816609562465,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763910000000,
+    "close": 357022.01403056254,
+    "maxClose": 357022.01403056254,
+    "reinvestClose": 323617.76202928065,
+    "netDeposits": 200000,
+    "closePercentage": 78.51100701528127,
+    "reinvestClosePercentage": 61.80888101464033,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1763996400000,
+    "close": 349048.0601897432,
+    "maxClose": 349048.0601897432,
+    "reinvestClose": 318460.18496235955,
+    "netDeposits": 200000,
+    "closePercentage": 74.52403009487159,
+    "reinvestClosePercentage": 59.230092481179774,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764082800000,
+    "close": 359278.8880612829,
+    "maxClose": 359278.8880612829,
+    "reinvestClose": 324924.8721114396,
+    "netDeposits": 200000,
+    "closePercentage": 79.63944403064146,
+    "reinvestClosePercentage": 62.46243605571979,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764169200000,
+    "close": 338246.72228374216,
+    "maxClose": 338246.72228374216,
+    "reinvestClose": 311532.71019407443,
+    "netDeposits": 200000,
+    "closePercentage": 69.12336114187107,
+    "reinvestClosePercentage": 55.76635509703721,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764255600000,
+    "close": 342502.78184495243,
+    "maxClose": 342502.78184495243,
+    "reinvestClose": 314169.17220493336,
+    "netDeposits": 200000,
+    "closePercentage": 71.25139092247622,
+    "reinvestClosePercentage": 57.08458610246668,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764342000000,
+    "close": 337923.25478756573,
+    "maxClose": 337923.25478756573,
+    "reinvestClose": 311144.98794151127,
+    "netDeposits": 200000,
+    "closePercentage": 68.96162739378286,
+    "reinvestClosePercentage": 55.57249397075563,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764428400000,
+    "close": 345330.7359122459,
+    "maxClose": 345330.7359122459,
+    "reinvestClose": 315804.8621639004,
+    "netDeposits": 200000,
+    "closePercentage": 72.66536795612294,
+    "reinvestClosePercentage": 57.9024310819502,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764514800000,
+    "close": 355473.2423295334,
+    "maxClose": 355473.2423295334,
+    "reinvestClose": 322211.0331053477,
+    "netDeposits": 200000,
+    "closePercentage": 77.73662116476669,
+    "reinvestClosePercentage": 61.105516552673855,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764601200000,
+    "close": 373261.2617372019,
+    "maxClose": 373261.2617372019,
+    "reinvestClose": 333425.1947410849,
+    "netDeposits": 200000,
+    "closePercentage": 86.63063086860095,
+    "reinvestClosePercentage": 66.71259737054244,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764687600000,
+    "close": 358341.74605621997,
+    "maxClose": 358341.74605621997,
+    "reinvestClose": 323975.3049811913,
+    "netDeposits": 200000,
+    "closePercentage": 79.17087302811,
+    "reinvestClosePercentage": 61.98765249059564,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764774000000,
+    "close": 329206.82630721177,
+    "maxClose": 329206.82630721177,
+    "reinvestClose": 305421.17038128024,
+    "netDeposits": 200000,
+    "closePercentage": 64.60341315360589,
+    "reinvestClosePercentage": 52.710585190640124,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764860400000,
+    "close": 312815.885426111,
+    "maxClose": 312815.885426111,
+    "reinvestClose": 294667.0123643662,
+    "netDeposits": 200000,
+    "closePercentage": 56.40794271305549,
+    "reinvestClosePercentage": 47.33350618218311,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1764946800000,
+    "close": 302947.42121960834,
+    "maxClose": 302947.42121960834,
+    "reinvestClose": 288074.9091116611,
+    "netDeposits": 200000,
+    "closePercentage": 51.47371060980417,
+    "reinvestClosePercentage": 44.03745455583054,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765033200000,
+    "close": 320283.16404130735,
+    "maxClose": 320283.16404130735,
+    "reinvestClose": 299539.30455891666,
+    "netDeposits": 200000,
+    "closePercentage": 60.14158202065367,
+    "reinvestClosePercentage": 49.76965227945833,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765119600000,
+    "close": 340719.52274357947,
+    "maxClose": 340719.52274357947,
+    "reinvestClose": 312817.8675488397,
+    "netDeposits": 200000,
+    "closePercentage": 70.35976137178973,
+    "reinvestClosePercentage": 56.40893377441986,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765206000000,
+    "close": 320227.89874930296,
+    "maxClose": 320227.89874930296,
+    "reinvestClose": 299581.92351548397,
+    "netDeposits": 200000,
+    "closePercentage": 60.113949374651476,
+    "reinvestClosePercentage": 49.79096175774199,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765292400000,
+    "close": 325230.6332903959,
+    "maxClose": 325230.6332903959,
+    "reinvestClose": 302783.1330763774,
+    "netDeposits": 200000,
+    "closePercentage": 62.61531664519795,
+    "reinvestClosePercentage": 51.39156653818869,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765378800000,
+    "close": 313358.4464858405,
+    "maxClose": 313358.4464858405,
+    "reinvestClose": 294979.31316170836,
+    "netDeposits": 200000,
+    "closePercentage": 56.67922324292024,
+    "reinvestClosePercentage": 47.48965658085418,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765465200000,
+    "close": 290455.36939082626,
+    "maxClose": 290455.36939082626,
+    "reinvestClose": 279828.0810985706,
+    "netDeposits": 200000,
+    "closePercentage": 45.22768469541313,
+    "reinvestClosePercentage": 39.9140405492853,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765551600000,
+    "close": 292360.2550904413,
+    "maxClose": 292360.2550904413,
+    "reinvestClose": 281002.47042189003,
+    "netDeposits": 200000,
+    "closePercentage": 46.180127545220664,
+    "reinvestClosePercentage": 40.50123521094501,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765638000000,
+    "close": 298191.17534505087,
+    "maxClose": 298191.17534505087,
+    "reinvestClose": 284846.11973444,
+    "netDeposits": 200000,
+    "closePercentage": 49.09558767252544,
+    "reinvestClosePercentage": 42.42305986722,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765724400000,
+    "close": 292906.8948605032,
+    "maxClose": 292906.8948605032,
+    "reinvestClose": 281221.01132979686,
+    "netDeposits": 200000,
+    "closePercentage": 46.45344743025161,
+    "reinvestClosePercentage": 40.61050566489843,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765810800000,
+    "close": 271436.18413248553,
+    "maxClose": 271436.18413248553,
+    "reinvestClose": 266690.4007557406,
+    "netDeposits": 200000,
+    "closePercentage": 35.71809206624277,
+    "reinvestClosePercentage": 33.34520037787029,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765897200000,
+    "close": 262700.94000101637,
+    "maxClose": 262700.94000101637,
+    "reinvestClose": 260579.42435391317,
+    "netDeposits": 200000,
+    "closePercentage": 31.350470000508185,
+    "reinvestClosePercentage": 30.289712176956584,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1765983600000,
+    "close": 263391.4015842922,
+    "maxClose": 263391.4015842922,
+    "reinvestClose": 260996.22096444338,
+    "netDeposits": 200000,
+    "closePercentage": 31.69570079214609,
+    "reinvestClosePercentage": 30.498110482221684,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766070000000,
+    "close": 260417.12237823496,
+    "maxClose": 260417.12237823496,
+    "reinvestClose": 258878.48724497217,
+    "netDeposits": 200000,
+    "closePercentage": 30.20856118911748,
+    "reinvestClosePercentage": 29.43924362248609,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766156400000,
+    "close": 266611.1806961089,
+    "maxClose": 266611.1806961089,
+    "reinvestClose": 263136.7702486871,
+    "netDeposits": 200000,
+    "closePercentage": 33.30559034805445,
+    "reinvestClosePercentage": 31.56838512434356,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766242800000,
+    "close": 276909.277555417,
+    "maxClose": 276909.277555417,
+    "reinvestClose": 270192.63475103216,
+    "netDeposits": 200000,
+    "closePercentage": 38.45463877770849,
+    "reinvestClosePercentage": 35.09631737551609,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766329200000,
+    "close": 255657.7986049929,
+    "maxClose": 255657.7986049929,
+    "reinvestClose": 255619.48736900432,
+    "netDeposits": 200000,
+    "closePercentage": 27.828899302496446,
+    "reinvestClosePercentage": 27.80974368450216,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766415600000,
+    "close": 274707.14743512514,
+    "maxClose": 274707.14743512514,
+    "reinvestClose": 268852.29635629046,
+    "netDeposits": 200000,
+    "closePercentage": 37.35357371756257,
+    "reinvestClosePercentage": 34.42614817814523,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766502000000,
+    "close": 270020.1757629179,
+    "maxClose": 270020.1757629179,
+    "reinvestClose": 265550.32363007375,
+    "netDeposits": 200000,
+    "closePercentage": 35.01008788145895,
+    "reinvestClosePercentage": 32.775161815036874,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766588400000,
+    "close": 255170.522223277,
+    "maxClose": 255263.96228700705,
+    "reinvestClose": 255263.96228700705,
+    "netDeposits": 200000,
+    "closePercentage": 27.58526111163849,
+    "reinvestClosePercentage": 27.63198114350352,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766674800000,
+    "close": 260443.1165869481,
+    "maxClose": 260443.1165869481,
+    "reinvestClose": 258899.38156554385,
+    "netDeposits": 200000,
+    "closePercentage": 30.221558293474054,
+    "reinvestClosePercentage": 29.449690782771924,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766761200000,
+    "close": 274046.62727121403,
+    "maxClose": 274046.62727121403,
+    "reinvestClose": 268300.2720375657,
+    "netDeposits": 200000,
+    "closePercentage": 37.02331363560702,
+    "reinvestClosePercentage": 34.15013601878286,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766847600000,
+    "close": 259419.78090846926,
+    "maxClose": 259419.78090846926,
+    "reinvestClose": 258181.6842752874,
+    "netDeposits": 200000,
+    "closePercentage": 29.70989045423463,
+    "reinvestClosePercentage": 29.0908421376437,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1766934000000,
+    "close": 277295.7543544539,
+    "maxClose": 277295.7543544539,
+    "reinvestClose": 270541.2434716574,
+    "netDeposits": 200000,
+    "closePercentage": 38.64787717722694,
+    "reinvestClosePercentage": 35.2706217358287,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1767020400000,
+    "close": 270966.2576664476,
+    "maxClose": 270966.2576664476,
+    "reinvestClose": 266156.4694626416,
+    "netDeposits": 200000,
+    "closePercentage": 35.4831288332238,
+    "reinvestClosePercentage": 33.07823473132079,
+    "netDepositsPercentage": 0
+  },
+  {
+    "date": 1767106800000,
+    "close": 266843.37271017476,
+    "maxClose": 266843.37271017476,
+    "reinvestClose": 263263.5877787973,
+    "netDeposits": 200000,
+    "closePercentage": 33.42168635508738,
+    "reinvestClosePercentage": 31.631793889398658,
+    "netDepositsPercentage": 0
+  }
+]
