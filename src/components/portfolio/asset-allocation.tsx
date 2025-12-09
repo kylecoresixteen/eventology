@@ -3,6 +3,13 @@ import Box from '../ui/Box';
 import DonutPieChart from '@/app/portfolio/donut-piechart';
 import AllocationItem from './allocation-item';
 import ContentTitle from './content-title';
+import {
+  AlertCircleIcon,
+  CheckCircleIcon,
+  ThumbsUp,
+  TriangleAlertIcon,
+  WandSparklesIcon,
+} from 'lucide-react';
 
 const holdingsData = [
   { name: 'TSLA', amount: 100, value: 25, fill: '#EF4444' },
@@ -44,10 +51,10 @@ const themesData = [
 export default function AssetAllocation() {
   return (
     <Box element="section" className="flex flex-col gap-5">
-      <ContentTitle title="Asset Allocation / Sector Analysis" />
+      <ContentTitle title="자산 배분 / 섹터 분석" />
       <div className="flex gap-5 w-full">
         <div className="flex flex-col flex-1">
-          <h3>Holdings</h3>
+          <h3>보유종목</h3>
           <DonutPieChart data={holdingsData} />
           <div className="flex flex-col w-full gap-4">
             {holdingsData.map((item, index) => (
@@ -62,7 +69,7 @@ export default function AssetAllocation() {
           </div>
         </div>
         <div className="flex flex-col flex-1">
-          <h3>Industries</h3>
+          <h3>업종</h3>
           <DonutPieChart data={industryData} />
           <div className="flex flex-col w-full gap-4 h-[250px] overflow-y-auto overscroll-none">
             {industryData.map((item, index) => (
@@ -76,7 +83,7 @@ export default function AssetAllocation() {
           </div>
         </div>
         <div className="flex flex-col flex-1">
-          <h3>Sectors</h3>
+          <h3>섹터</h3>
           <DonutPieChart
             data={[
               { name: 'TSLA', value: 100, fill: '#EF4444' },
@@ -97,7 +104,7 @@ export default function AssetAllocation() {
           </div>
         </div>
         <div className="flex flex-col flex-1">
-          <h3>Themes</h3>
+          <h3>테마</h3>
           <DonutPieChart
             data={[
               { name: 'TSLA', value: 100, fill: '#EF4444' },
@@ -118,14 +125,59 @@ export default function AssetAllocation() {
           </div>
         </div>
       </div>
-      {/* <div style={{ display: 'flex', gap: '20px' }}> */}
-      {/* Right (list + details) */}
-      {/* <div style={{ flex: 2 }}>
-          <div style={{ height: 40 }}>업종 비중 리스트</div>
-          <div style={{ height: 40 }}>코스피/코스닥/해외 비중</div>
-          <div style={{ height: 40 }}>현금 비중</div>
-        </div> */}
-      {/* </div> */}
+      <div className="flex flex-col gap-2 w-full mt-10">
+        <ContentTitle
+          title={
+            <div className="flex flex-row items-center gap-2">
+              <p>AI가 포트폴리오를 분석해봤어요</p>
+              <WandSparklesIcon size={30} />
+            </div>
+          }
+          className="text-2xl"
+        />
+        <div className="flex w-full flex-col gap-10 text-sm">
+          <div className="flex flex-row items-center gap-6">
+            <ThumbsUp size={50} color="yellow" />
+
+            <div className="flex flex-col flex-start">
+              <ContentTitle
+                title="이런 점은 좋아요."
+                className="text-lg mb-2"
+              />
+              <div>
+                <p> - 종목이 4개예요. 관리가 쉬운 포트폴리오예요.</p>
+                <p>
+                  {' '}
+                  - 대형주 위주로 매수 했기 때문에 안정적인 수익률을 기대할 수
+                  있어요.
+                </p>
+              </div>
+            </div>
+          </div>
+          <div className="flex flex-row items-center gap-6">
+            <TriangleAlertIcon size={50} color="yellow" />
+
+            <div className="flex flex-col flex-start">
+              <ContentTitle
+                title="이런 점은 개선이 필요해요."
+                className="text-lg mb-2"
+              />
+              <div>
+                <p>
+                  {' '}
+                  - 종목이 8개예요. 관리가 어려운 포트폴리오예요. 보통 5개
+                  이하로 관리하는 것이 좋아요.
+                </p>
+                <p>
+                  {' '}
+                  - 현금 비중 5프로 미만으로 내려갔어요. 현금 비중은 보통 10프로
+                  이상이 좋아요.
+                </p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </Box>
   );
 }

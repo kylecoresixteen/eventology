@@ -1307,7 +1307,7 @@ const CompareChart: FC<CompareChartProps> = ({ onHover }) => {
           type="number"
           name="수익률"
           tickFormatter={formatPercentage}
-          tick={{ fill: tickColor, fontSize: 14 }}
+          tick={{ fill: tickColor, fontSize: 12 }}
           domain={yAxisDomain}
         />
         {/** XAxis with date display - 1달 간격으로 표시 */}
@@ -1318,7 +1318,7 @@ const CompareChart: FC<CompareChartProps> = ({ onHover }) => {
           axisLine={{ stroke: tickColor }}
           tickLine={{ stroke: tickColor }}
           ticks={monthlyTicks}
-          tick={{ fill: tickColor, fontSize: 14 }}
+          tick={{ fill: tickColor, fontSize: 12 }}
           tickMargin={8}
           allowDecimals={false}
           tickFormatter={(value) => {

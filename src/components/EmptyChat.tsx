@@ -50,7 +50,9 @@ const EmptyChat = () => {
         <div className="flex flex-col items-center justify-center w-full space-y-8">
           <div className="flex flex-row items-center justify-center gap-2">
             <BrainCircuitIcon size={60} className="mb-2.5" />
-            <h1 className="text-5xl font-medium">Eventology.</h1>
+            <h1 className="text-5xl text-black dark:text-white font-medium">
+              Eventology.
+            </h1>
           </div>
           <h2 className="text-black/70 dark:text-white/70 text-lg font-thin -mt-4">
             AI를 통해 투자 전략을 세워보세요

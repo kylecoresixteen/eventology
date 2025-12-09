@@ -48,6 +48,7 @@
     "react-textarea-autosize": "^8.5.3",
     "recharts": "^3.5.1",
     "sonner": "^1.4.41",
+    "swiper": "^12.0.3",
     "tailwind-merge": "^2.2.2",
     "winston": "^3.17.0",
     "yet-another-react-lightbox": "^3.17.2",

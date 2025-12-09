@@ -5,14 +5,9 @@ import DividendFlow from '@/components/portfolio/dividend-flow';
 import PerformanceHistory from '@/components/portfolio/performance-history';
 import RiskAnalysis from '@/components/portfolio/risk/risk-analysis';
 import SummarySection from '@/components/portfolio/summary-section';
-import {
-  Tab,
-  TabList,
-  TabGroup,
-  TabPanel,
-  TabPanels,
-  Button,
-} from '@headlessui/react';
+import Box from '@/components/ui/Box';
+import { cn } from '@/lib/utils';
+import { Tab, TabGroup, TabList, TabPanel } from '@headlessui/react';
 import { PieChartIcon } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { toast } from 'sonner';
@@ -125,13 +120,13 @@ const Page = () => {
 
   return (
     <>
-      <div>
+      <div className="text-black/70 dark:text-white/70">
         <div className="flex flex-col pt-10 border-b border-light-200/20 dark:border-dark-200/20 pb-6 px-2">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
             <div className="flex items-center justify-center">
               <PieChartIcon size={45} className="mb-2.5" />
               <h1
-                className="text-5xl font-normal p-2"
+                className="text-5xl text-black dark:text-white font-normal p-2"
                 style={{ fontFamily: 'PP Editorial, serif' }}
               >
                 Portfolio Analysis
@@ -163,134 +158,86 @@ const Page = () => {
           <>
             <TabContainer categories={categories}>
               <>
-                <TabPanel key={categories[0].name}>
-                  <div className="flex flex-col gap-8">
+                <TabPanel key={categories[0].name} className="w-full">
+                  <div className="flex flex-col gap-8 w-full">
                     <SummarySection />
-                    <div className="relative">
-                      {/* 호버 데이터 표시 */}
-                      {/* {hoverData && (
-                        <div className="mb-4 p-4 bg-white/90 dark:bg-dark-secondary/90 backdrop-blur-sm rounded-lg border border-gray-200 dark:border-gray-700 shadow-sm">
-                          <div className="flex items-center justify-between">
-                            <div className="flex items-center gap-4">
-                              <div>
-                                <span className="text-xs text-gray-500 dark:text-gray-400">
-                                  날짜
-                                </span>
-                                <p className="text-sm font-medium">
-                                  {new Date(hoverData.date).toLocaleDateString(
-                                    'ko-KR',
-                                    {
-                                      year: 'numeric',
-                                      month: 'short',
-                                      day: 'numeric',
-                                    },
-                                  )}
-                                </p>
+                    <div className="flex gap-4 w-full">
+                      <Box className="flex flex-1 flex-col gap-4">
+                        <div className="flex w-full justify-between items-center">
+                          <div className="flex flex-row gap-10 text-black dark:text-white">
+                            <div className="flex flex-col gap-4">
+                              <div className="flex items-center gap-2">
+                                <span className="bg-[#2EC87E] w-[10px] h-[3px]" />
+                                <span>포트폴리오</span>
                               </div>
-                              <div className="h-8 w-px bg-gray-300 dark:bg-gray-600" />
-                              <div>
-                                <span className="text-xs text-gray-500 dark:text-gray-400">
-                                  포트폴리오 수익률
-                                </span>
-                                <p
-                                  className="text-sm font-medium"
-                                  style={{ color: '#2EC87E' }}
-                                >
-                                  {hoverData.closePercentage >= 0 ? '+' : ''}
-                                  {hoverData.closePercentage.toFixed(2)}%
-                                </p>
+                              <div
+                                className={cn(
+                                  'text-sm font-semibold',
+                                  (hoverData?.closePercentage ?? 0) === 0 && '',
+                                  (hoverData?.closePercentage ?? 0) > 0
+                                    ? 'text-green-500'
+                                    : (hoverData?.closePercentage ?? 0) < 0
+                                      ? 'text-red-500'
+                                      : '',
+                                )}
+                              >
+                                {(hoverData?.closePercentage ?? 0) > 0
+                                  ? '+'
+                                  : ''}
+                                {(hoverData?.closePercentage ?? 0).toFixed(2)}%
                               </div>
-                              <div className="h-8 w-px bg-gray-300 dark:bg-gray-600" />
-                              <div>
-                                <span className="text-xs text-gray-500 dark:text-gray-400">
-                                  S&P 500 수익률
-                                </span>
-                                <p
-                                  className="text-sm font-medium"
-                                  style={{ color: '#dcdcdc' }}
-                                >
-                                  {hoverData.reinvestClosePercentage >= 0
-                                    ? '+'
-                                    : ''}
-                                  {hoverData.reinvestClosePercentage.toFixed(2)}
-                                  %
-                                </p>
+                            </div>
+                            <div className="flex flex-col gap-4">
+                              <div className="flex items-center gap-2">
+                                <span className="bg-[#8C9096] w-[10px] h-[3px]" />
+                                <span>S&P 500 (미국)</span>
                               </div>
-                              <div className="h-8 w-px bg-gray-300 dark:bg-gray-600" />
-                              <div>
-                                <span className="text-xs text-gray-500 dark:text-gray-400">
-                                  차이
-                                </span>
-                                <p
-                                  className={`text-sm font-medium ${
-                                    hoverData.differencePercentage >= 0
-                                      ? 'text-green-600 dark:text-green-400'
-                                      : 'text-red-600 dark:text-red-400'
-                                  }`}
-                                >
-                                  {hoverData.differencePercentage >= 0
-                                    ? '+'
-                                    : ''}
-                                  {hoverData.differencePercentage.toFixed(2)}%
-                                </p>
+                              <div
+                                className={cn(
+                                  'text-sm font-semibold',
+                                  (hoverData?.differencePercentage ?? 0) ===
+                                    0 && '',
+                                  (hoverData?.differencePercentage ?? 0) > 0
+                                    ? 'text-green-500'
+                                    : (hoverData?.differencePercentage ?? 0) < 0
+                                      ? 'text-red-500'
+                                      : '',
+                                )}
+                              >
+                                {(hoverData?.differencePercentage ?? 0) > 0
+                                  ? '+'
+                                  : ''}
+                                {(hoverData?.differencePercentage ?? 0).toFixed(
+                                  2,
+                                )}
+                                %
                               </div>
                             </div>
                           </div>
-                        </div>
-                      )} */}
-                      <div className="flex justify-between">
-                        <div className="flex flex-row gap-10">
-                          <div className="flex flex-col gap-4">
-                            <div className="flex items-center gap-2">
-                              <span className="bg-[#2EC87E] w-[10px] h-[3px]" />
-                              <span>포트폴리오</span>
-                            </div>
-                            <div>
-                              {/* {console.log(hoverData?.closePercentage ?? 0)} */}
-                              {(hoverData?.closePercentage ?? 0) >= 0
-                                ? '+'
-                                : ''}
-                              {(hoverData?.closePercentage ?? 0).toFixed(2)}%
-                            </div>
-                          </div>
-                          <div className="flex flex-col gap-4">
-                            <div className="flex items-center gap-2">
-                              <span className="bg-[#8C9096] w-[10px] h-[3px]" />
-                              <span>S&P 500 (미국)</span>
-                            </div>
-                            <div>
-                              {(hoverData?.differencePercentage ?? 0) >= 0
-                                ? '+'
-                                : ''}
-                              {(hoverData?.differencePercentage ?? 0).toFixed(
-                                2,
-                              )}
-                              %
-                            </div>
-                          </div>
-                        </div>
-                        <div>
                           <TabGroup>
                             <TabList className="flex gap-4">
                               {chart_intervals.map(({ name }) => (
                                 <Tab
                                   key={name}
-                                  className="focus:outline-none rounded-full px-3 text-sm/6 font-semibold text-white focus:outline-none hover:bg-white/5 data-[selected]:bg-white/10 data-[selected]:hover:bg-white/10 transition-colors"
+                                  className="text-black dark:text-white focus:outline-none rounded-full px-3 text-sm/6 font-semibold text-white focus:outline-none hover:bg-white/5 data-[selected]:bg-white/10 data-[selected]:hover:bg-white/10 transition-colors"
                                 >
                                   {name}
                                 </Tab>
                               ))}
                             </TabList>
-                            <TabPanels className="mt-3">
-                              <TabPanel key={categories[0].name}>
-                                <Button className="focus:outline-none rounded-full px-3 py-1 text-sm/6 font-semibold text-white focus:outline-none hover:bg-white/5 data-[selected]:bg-white/10 data-[selected]:hover:bg-white/10 transition-colors" />
-                              </TabPanel>
-                            </TabPanels>
+                            {/* <TabPanels className="mt-3">
+                            <TabPanel key={categories[0].name}>
+                              <Button className="focus:outline-none rounded-full px-3 py-1 text-sm/6 font-semibold text-white focus:outline-none hover:bg-white/5 data-[selected]:bg-white/10 data-[selected]:hover:bg-white/10 transition-colors" />
+                            </TabPanel>
+                          </TabPanels> */}
                           </TabGroup>
                         </div>
-                      </div>
-                      <div className="pt-2" />
-                      <CompareChart onHover={setHoverData} />
+                        {/* TODO: Chart, Hover items, tabs 병합 */}
+                        <CompareChart onHover={setHoverData} />
+                      </Box>
+                      <Box className="w-[300px]">
+                        포트폴리오 평가 넣을 건지 결정 필요
+                      </Box>
                     </div>
                   </div>
                 </TabPanel>
@@ -302,10 +249,16 @@ const Page = () => {
                   <AssetAllocation />
                   {/* 리스크 / 집중도 분석 */}
                   <RiskAnalysis />
-                  {/* 수익률 히스토리 */}
-                  <PerformanceHistory />
-                  {/* 배당 현금 흐름 */}
-                  <DividendFlow />
+                  <div className="flex w-full gap-6">
+                    {/* 수익률 히스토리 */}
+                    <div className="flex flex-1">
+                      <PerformanceHistory />
+                    </div>
+                    <div className="flex flex-1">
+                      {/* 배당 현금 흐름 */}
+                      <DividendFlow />
+                    </div>
+                  </div>
                 </TabPanel>
               </>
             </TabContainer>

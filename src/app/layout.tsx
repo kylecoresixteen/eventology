@@ -20,8 +20,8 @@ const montserrat = Montserrat({
 });
 
 export const metadata: Metadata = {
-  title: 'Eventology',
-  description: 'Your AI Agent for your investment.',
+  title: '이벤톨로지',
+  description: 'AI를 통해 투자 전략을 세워보세요',
 };
 
 export default function RootLayout({
@@ -34,7 +34,12 @@ export default function RootLayout({
 
   return (
     <html className="h-full" lang="en" suppressHydrationWarning>
-      <body className={cn('h-full', montserrat.className)}>
+      <body
+        className={cn(
+          'h-full text-black/90 dark:text-white/90',
+          montserrat.className,
+        )}
+      >
         <ThemeProvider>
           <ChatProvider>
             <Sidebar>{children}</Sidebar>

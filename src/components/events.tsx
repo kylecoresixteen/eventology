@@ -17,7 +17,7 @@ export const Case = ({
   return (
     <Box className={`${className} flex-col h-[250px]`}>
       <div className="flex w-full flex-col items-center justify-center">
-        <h1 className="truncate w-full text-center text-black/70 dark:text-white/70 text-lg font-medium">
+        <h1 className="truncate w-full text-center text-lg font-medium">
           {title}
         </h1>
         <Separator />
