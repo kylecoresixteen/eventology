@@ -11,8 +11,8 @@ export const Article = ({
 }) => {
   return (
     <Box className={`${className} flex-col`}>
-      <h1>{title}</h1>
-      <p>{content}</p>
+      <h1 className="text-lg font-medium">{title}</h1>
+      <p className="text-black/70 dark:text-white/70 text-sm">{content}</p>
     </Box>
   );
 };

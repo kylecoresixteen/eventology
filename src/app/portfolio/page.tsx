@@ -1,11 +1,18 @@
 'use client';
 
-import { Globe2Icon } from 'lucide-react';
+import AssetAllocation from '@/components/portfolio/asset-allocation';
+import DividendFlow from '@/components/portfolio/dividend-flow';
+import PerformanceHistory from '@/components/portfolio/performance-history';
+import RiskAnalysis from '@/components/portfolio/risk/risk-analysis';
+import SummarySection from '@/components/portfolio/summary-section';
+import Box from '@/components/ui/Box';
+import { cn } from '@/lib/utils';
+import { Tab, TabGroup, TabList, TabPanel } from '@headlessui/react';
+import { PieChartIcon } from 'lucide-react';
 import { useEffect, useState } from 'react';
 import { toast } from 'sonner';
-import { cn } from '@/lib/utils';
-import SmallNewsCard from '@/components/Discover/SmallNewsCard';
-import MajorNewsCard from '@/components/Discover/MajorNewsCard';
+import CompareChart from './compare-chart';
+import TabContainer from './tab-container';
 
 export interface Discover {
   title: string;
@@ -37,10 +44,50 @@ const topics: { key: string; display: string }[] = [
   },
 ];
 
+const categories = [
+  {
+    name: '보유종목',
+  },
+  {
+    name: '분석',
+  },
+];
+
+const chart_intervals = [
+  {
+    name: '7일',
+    value: '1w',
+  },
+  {
+    name: '1개월',
+    value: '1m',
+  },
+  {
+    name: '3개월',
+    value: '3m',
+  },
+  {
+    name: '연초 누계',
+    value: '연초 누계',
+  },
+  {
+    name: '1년',
+    value: '1y',
+  },
+];
+
 const Page = () => {
   const [discover, setDiscover] = useState<Discover[] | null>(null);
   const [loading, setLoading] = useState(true);
   const [activeTopic, setActiveTopic] = useState<string>(topics[0].key);
+  const [hoverData, setHoverData] = useState<{
+    date: number;
+    closePercentage: number;
+    reinvestClosePercentage: number;
+    differencePercentage: number;
+  } | null>(null);
+
+  console.log(hoverData);
 
   const fetchArticles = async (topic: string) => {
     setLoading(true);
@@ -75,33 +122,17 @@ const Page = () => {
 
   return (
     <>
-      <div>
+      <div className="text-black/70 dark:text-white/70">
         <div className="flex flex-col pt-10 border-b border-light-200/20 dark:border-dark-200/20 pb-6 px-2">
           <div className="flex flex-col lg:flex-row lg:items-center lg:justify-between gap-4">
             <div className="flex items-center justify-center">
-              <Globe2Icon size={45} className="mb-2.5" />
+              <PieChartIcon size={45} className="mb-2.5" />
               <h1
-                className="text-5xl font-normal p-2"
+                className="text-5xl text-black dark:text-white font-normal p-2"
                 style={{ fontFamily: 'PP Editorial, serif' }}
               >
-                Discover
+                Portfolio Analysis
               </h1>
-            </div>
-            <div className="flex flex-row items-center space-x-2 overflow-x-auto">
-              {topics.map((t, i) => (
-                <div
-                  key={i}
-                  className={cn(
-                    'border-[0.1px] rounded-full text-sm px-3 py-1 text-nowrap transition duration-200 cursor-pointer',
-                    activeTopic === t.key
-                      ? 'text-cyan-700 dark:text-cyan-300 bg-cyan-300/20 border-cyan-700/60 dar:bg-cyan-300/30 dark:border-cyan-300/40'
-                      : 'border-black/30 dark:border-white/30 text-black/70 dark:text-white/70 hover:text-black dark:hover:text-white hover:border-black/40 dark:hover:border-white/40 hover:bg-black/5 dark:hover:bg-white/5',
-                  )}
-                  onClick={() => setActiveTopic(t.key)}
-                >
-                  <span>{t.display}</span>
-                </div>
-              ))}
             </div>
           </div>
         </div>
@@ -126,142 +157,115 @@ const Page = () => {
             </svg>
           </div>
         ) : (
-          <div className="flex flex-col gap-4 pb-28 pt-5 lg:pb-8 w-full">
-            <div className="block lg:hidden">
-              <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
-                {discover?.map((item, i) => (
-                  <SmallNewsCard key={`mobile-${i}`} item={item} />
-                ))}
-              </div>
-            </div>
-
-            <div className="hidden lg:block">
-              {discover &&
-                discover.length > 0 &&
-                (() => {
-                  const sections = [];
-                  let index = 0;
-
-                  while (index < discover.length) {
-                    if (sections.length > 0) {
-                      sections.push(
-                        <hr
-                          key={`sep-${index}`}
-                          className="border-t border-light-200/20 dark:border-dark-200/20 my-3 w-full"
-                        />,
-                      );
-                    }
-
-                    if (index < discover.length) {
-                      sections.push(
-                        <MajorNewsCard
-                          key={`major-${index}`}
-                          item={discover[index]}
-                          isLeft={false}
-                        />,
-                      );
-                      index++;
-                    }
-
-                    if (index < discover.length) {
-                      sections.push(
-                        <hr
-                          key={`sep-${index}-after`}
-                          className="border-t border-light-200/20 dark:border-dark-200/20 my-3 w-full"
-                        />,
-                      );
-                    }
-
-                    if (index < discover.length) {
-                      const smallCards = discover.slice(index, index + 3);
-                      sections.push(
-                        <div
-                          key={`small-group-${index}`}
-                          className="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-4"
-                        >
-                          {smallCards.map((item, i) => (
-                            <SmallNewsCard
-                              key={`small-${index + i}`}
-                              item={item}
-                            />
-                          ))}
-                        </div>,
-                      );
-                      index += 3;
-                    }
-
-                    if (index < discover.length) {
-                      sections.push(
-                        <hr
-                          key={`sep-${index}-after-small`}
-                          className="border-t border-light-200/20 dark:border-dark-200/20 my-3 w-full"
-                        />,
-                      );
-                    }
-
-                    if (index < discover.length - 1) {
-                      const twoMajorCards = discover.slice(index, index + 2);
-                      twoMajorCards.forEach((item, i) => {
-                        sections.push(
-                          <MajorNewsCard
-                            key={`double-${index + i}`}
-                            item={item}
-                            isLeft={i === 0}
-                          />,
-                        );
-                        if (i === 0) {
-                          sections.push(
-                            <hr
-                              key={`sep-double-${index + i}`}
-                              className="border-t border-light-200/20 dark:border-dark-200/20 my-3 w-full"
-                            />,
-                          );
-                        }
-                      });
-                      index += 2;
-                    } else if (index < discover.length) {
-                      sections.push(
-                        <MajorNewsCard
-                          key={`final-major-${index}`}
-                          item={discover[index]}
-                          isLeft={true}
-                        />,
-                      );
-                      index++;
-                    }
-
-                    if (index < discover.length) {
-                      sections.push(
-                        <hr
-                          key={`sep-${index}-after-major`}
-                          className="border-t border-light-200/20 dark:border-dark-200/20 my-3 w-full"
-                        />,
-                      );
-                    }
-
-                    if (index < discover.length) {
-                      const smallCards = discover.slice(index, index + 3);
-                      sections.push(
-                        <div
-                          key={`small-group-2-${index}`}
-                          className="grid lg:grid-cols-3 sm:grid-cols-2 grid-cols-1 gap-4"
-                        >
-                          {smallCards.map((item, i) => (
-                            <SmallNewsCard
-                              key={`small-2-${index + i}`}
-                              item={item}
-                            />
-                          ))}
-                        </div>,
-                      );
-                      index += 3;
-                    }
-                  }
-
-                  return sections;
-                })()}
-            </div>
-          </div>
+          <>
+            <TabContainer categories={categories}>
+              <>
+                <TabPanel key={categories[0].name} className="w-full">
+                  <div className="flex flex-col gap-8 w-full">
+                    <SummarySection />
+                    <div className="flex gap-4 w-full">
+                      <Box className="flex flex-1 flex-col gap-4">
+                        <div className="flex w-full justify-between items-center">
+                          <div className="flex flex-row gap-10 text-black dark:text-white">
+                            <div className="flex flex-col gap-4">
+                              <div className="flex items-center gap-2">
+                                <span className="bg-[#2EC87E] w-[10px] h-[3px]" />
+                                <span>포트폴리오</span>
+                              </div>
+                              <div
+                                className={cn(
+                                  'text-sm font-semibold',
+                                  (hoverData?.closePercentage ?? 0) === 0 && '',
+                                  (hoverData?.closePercentage ?? 0) > 0
+                                    ? 'text-green-500'
+                                    : (hoverData?.closePercentage ?? 0) < 0
+                                      ? 'text-red-500'
+                                      : '',
+                                )}
+                              >
+                                {(hoverData?.closePercentage ?? 0) > 0
+                                  ? '+'
+                                  : ''}
+                                {(hoverData?.closePercentage ?? 0).toFixed(2)}%
+                              </div>
+                            </div>
+                            <div className="flex flex-col gap-4">
+                              <div className="flex items-center gap-2">
+                                <span className="bg-[#8C9096] w-[10px] h-[3px]" />
+                                <span>S&P 500 (미국)</span>
+                              </div>
+                              <div
+                                className={cn(
+                                  'text-sm font-semibold',
+                                  (hoverData?.reinvestClosePercentage ?? 0) ===
+                                    0 && '',
+                                  (hoverData?.reinvestClosePercentage ?? 0) > 0
+                                    ? 'text-green-500'
+                                    : (hoverData?.reinvestClosePercentage ??
+                                          0) < 0
+                                      ? 'text-red-500'
+                                      : '',
+                                )}
+                              >
+                                {(hoverData?.reinvestClosePercentage ?? 0) > 0
+                                  ? '+'
+                                  : ''}
+                                {(
+                                  hoverData?.reinvestClosePercentage ?? 0
+                                ).toFixed(2)}
+                                %
+                              </div>
+                            </div>
+                          </div>
+                          <TabGroup>
+                            <TabList className="flex gap-4">
+                              {chart_intervals.map(({ name }) => (
+                                <Tab
+                                  key={name}
+                                  className="text-black dark:text-white focus:outline-none rounded-full px-3 text-sm/6 font-semibold text-white focus:outline-none hover:bg-white/5 data-[selected]:bg-white/10 data-[selected]:hover:bg-white/10 transition-colors"
+                                >
+                                  {name}
+                                </Tab>
+                              ))}
+                            </TabList>
+                            {/* <TabPanels className="mt-3">
+                            <TabPanel key={categories[0].name}>
+                              <Button className="focus:outline-none rounded-full px-3 py-1 text-sm/6 font-semibold text-white focus:outline-none hover:bg-white/5 data-[selected]:bg-white/10 data-[selected]:hover:bg-white/10 transition-colors" />
+                            </TabPanel>
+                          </TabPanels> */}
+                          </TabGroup>
+                        </div>
+                        {/* TODO: Chart, Hover items, tabs 병합 */}
+                        <CompareChart onHover={setHoverData} />
+                      </Box>
+                      <Box className="w-[300px]">
+                        포트폴리오 평가 넣을 건지 결정 필요
+                      </Box>
+                    </div>
+                  </div>
+                </TabPanel>
+                <TabPanel
+                  key={categories[1].name}
+                  className="flex flex-col gap-6"
+                >
+                  {/* 자산 배분 / 섹터 분석 */}
+                  <AssetAllocation />
+                  {/* 리스크 / 집중도 분석 */}
+                  <RiskAnalysis />
+                  <div className="flex w-full gap-6">
+                    {/* 수익률 히스토리 */}
+                    <div className="flex flex-1">
+                      <PerformanceHistory />
+                    </div>
+                    <div className="flex flex-1">
+                      {/* 배당 현금 흐름 */}
+                      <DividendFlow />
+                    </div>
+                  </div>
+                </TabPanel>
+              </>
+            </TabContainer>
+          </>
         )}
       </div>
     </>

@@ -97,3 +97,30 @@
     font-size: 16px !important;
   }
 }
+
+/* Swiper 커스텀 스타일 */
+.month-swiper .swiper-button-next,
+.month-swiper .swiper-button-prev {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.dark .month-swiper .swiper-button-next,
+.dark .month-swiper .swiper-button-prev {
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.month-swiper .swiper-pagination-bullet {
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.dark .month-swiper .swiper-pagination-bullet {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+.month-swiper .swiper-pagination-bullet-active {
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.dark .month-swiper .swiper-pagination-bullet-active {
+  background: rgba(255, 255, 255, 0.7);
+}

@@ -27,19 +27,19 @@ const Sidebar = ({ children }: { children: React.ReactNode }) => {
       icon: Home,
       href: '/',
       active: segments.length === 0 || segments.includes('c'),
-      label: 'Home',
+      label: '홈',
     },
     {
       icon: PieChartIcon,
       href: '/portfolio',
       active: segments.includes('portfolio'),
-      label: 'Portfolio',
+      label: '포트폴리오',
     },
     {
       icon: MessagesSquareIcon,
       href: '/community',
       active: segments.includes('community'),
-      label: 'Community',
+      label: '커뮤니티',
     },
   ];
 
