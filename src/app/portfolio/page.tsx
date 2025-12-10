@@ -87,6 +87,8 @@ const Page = () => {
     differencePercentage: number;
   } | null>(null);
 
+  console.log(hoverData);
+
   const fetchArticles = async (topic: string) => {
     setLoading(true);
     try {
@@ -195,21 +197,22 @@ const Page = () => {
                               <div
                                 className={cn(
                                   'text-sm font-semibold',
-                                  (hoverData?.differencePercentage ?? 0) ===
+                                  (hoverData?.reinvestClosePercentage ?? 0) ===
                                     0 && '',
-                                  (hoverData?.differencePercentage ?? 0) > 0
+                                  (hoverData?.reinvestClosePercentage ?? 0) > 0
                                     ? 'text-green-500'
-                                    : (hoverData?.differencePercentage ?? 0) < 0
+                                    : (hoverData?.reinvestClosePercentage ??
+                                          0) < 0
                                       ? 'text-red-500'
                                       : '',
                                 )}
                               >
-                                {(hoverData?.differencePercentage ?? 0) > 0
+                                {(hoverData?.reinvestClosePercentage ?? 0) > 0
                                   ? '+'
                                   : ''}
-                                {(hoverData?.differencePercentage ?? 0).toFixed(
-                                  2,
-                                )}
+                                {(
+                                  hoverData?.reinvestClosePercentage ?? 0
+                                ).toFixed(2)}
                                 %
                               </div>
                             </div>

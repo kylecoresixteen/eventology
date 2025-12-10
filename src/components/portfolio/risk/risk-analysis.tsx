@@ -1,4 +1,5 @@
 import Box from '../../ui/Box';
+import AiReview from '../ai-review';
 import AllocationItem from '../allocation-item';
 import ContentTitle from '../content-title';
 import HighVolatilityBar from './high-volatility-bar';
@@ -47,6 +48,7 @@ export default function RiskSection() {
           </div>
         </div>
       </div>
+      <AiReview />
     </Box>
   );
 }
